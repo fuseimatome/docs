@@ -101,7 +101,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.1</span>
 :class: Caution
-<span class="mini">地裁判決のここの部分 [<i class="fa-solid fa-link"></i>](#kousai5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1を保有しています。</span>
+<span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#kousai5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1を保有しています。</span>
 ````
 `````
 
@@ -269,7 +269,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.5</span>
 :class: Caution
-<span class="mini">高裁判決 [<i class="fa-solid fa-link"></i>](#kousai2) では、地裁判決のここの部分について「改行の上、次のとおり加える」と追加しています</span>
+<span class="mini">高裁判決 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#kousai2) では、地裁判決のここの部分について「改行の上、次のとおり加える」と追加しています</span>
 
 ````
 `````
