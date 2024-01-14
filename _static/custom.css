@@ -267,6 +267,34 @@ h4 {
   padding-left:4em;
   text-indent:1em;
 }
+.idtm1-1 {
+  font-size:14px;
+  padding-left:1em;
+  text-indent:1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.idtm2-1 {
+  font-size:14px;
+  padding-left:2em;
+  text-indent:1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.idtm3-1 {
+  font-size:14px;
+  padding-left:3em;
+  text-indent:1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.idtm4-1 {
+  font-size:14px;
+  padding-left:4em;
+  text-indent:1em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
 
 @media only screen and (max-width: 767px) {
@@ -394,5 +422,5 @@ h4 {
     font-size:14px;
     padding-left:4em;
     text-indent:1em;
-  }
+  }  
 }
