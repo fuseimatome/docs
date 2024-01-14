@@ -18,8 +18,8 @@
 <div class="box" markdown>
 
 ＥＮＥＯＳの社長代行を務めている宮田知秀副社長と以下のリンク先の内容について共有しています。
- - 本サイト [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://fuseimatome.github.io/eneos)
- - GitHubアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/eneos/issues)
+ - 本サイト [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://fuseimatome.github.io/docs)
+ - GitHubアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/docs/issues)
  - Twitterアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://twitter.com/fuseimatome)
 
 なお、上記を宮田知秀副社長と共有することは、ＥＮＥＯＳの代理人に依頼しています。
@@ -232,7 +232,7 @@
 
 本サイトはこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id2) に判決文を記載していますので、私が示している内容に疑問がある人は判決文をご覧いただきまして、私の解釈に誤りがありましたら、GitHub issues や Twitter でご指摘いただけますと幸いです。
 
-<i class="fa-brands fa-github"></i> GitHub issues [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/eneos/issues)
+<i class="fa-brands fa-github"></i> GitHub issues [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/docs/issues)
 
 <i class="fa-brands fa-twitter"></i> Twitter [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://twitter.com/fuseimatome)
 
