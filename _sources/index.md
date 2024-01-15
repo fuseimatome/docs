@@ -36,6 +36,8 @@
 
 地裁と高裁は、争点の「内部通報制度における信義則上の義務」について、「信義則上の義務違反があったということはできない」としたうえで棄却しましたが、原告は2023年8月に上告受理申立理由書を提出しています。
 
+判決文をこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id2) に記載しています。
+
 
 ## <span style="color: #616161;">２ 何があったのか？</span>
 

@@ -49,6 +49,7 @@
   color:#f37726;
   text-align:right;
   display:block;
+  font-weight:bold;
   margin-top:0;
   margin-bottom:0;
 }
@@ -309,7 +310,7 @@ h4 {
     margin-bottom: 0;
   }
   .center {
-    text-align:right;
+    text-align:left;
     display:block;
     font-weight:bold;
   }
@@ -317,19 +318,19 @@ h4 {
     font-size:24px;
     margin-top: 48px;
     margin-bottom:160px;
-    text-align:right;
+    text-align:left;
   }
   h2 {
     font-size:24px;
     margin-top:160px;
     margin-bottom:0;
-    text-align:right;
+    text-align:left;
   }
   h3 {
     font-size:24px;
     margin-top:160px;
     margin-bottom:0;
-    text-align:right;
+    text-align:left;
   }
   .doc {
     margin-right: 0;
