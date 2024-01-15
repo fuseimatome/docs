@@ -117,7 +117,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.1</span>
 :class: Caution
-<span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#hosei5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1を保有しています。</span>
+<span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#hosei5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.jdla.org/certificate/engineer/) を保有しています。</span>
 ````
 `````
 
