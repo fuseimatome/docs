@@ -4,11 +4,6 @@
 # <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">の内部通報制度に関する訴訟について</span>
 
 
-`````{margin} 
-
-<p><span class="mini">注）ＥＮＥＯＳの代理人からは、ＥＮＥＯＳに対する連絡は代理人を介して行うことを依頼されており、「代理人に連絡をするということは、本人に連絡をするのと同じことであり、当職らに連絡をすれば、会社が「知らなかった」ということにはなりません（原文ママ）」と伝えられています。</span></p>
-
-`````
 
 <div class="result" markdown>
   <div class="base" markdown>
@@ -17,12 +12,11 @@
 
 <div class="box" markdown>
 
-ＥＮＥＯＳの社長代行を務めている宮田知秀副社長と以下のリンク先の内容について共有しています。
+
+本サイトの公開前に、ＥＮＥＯＳの代理人を通じて、社長代行を務めている宮田知秀副社長と以下のリンク先の内容について共有しています。
  - 本サイト [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://fuseimatome.github.io/docs)
  - GitHubアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/docs/issues)
  - Twitterアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://twitter.com/fuseimatome)
-
-なお、上記を宮田知秀副社長と共有することは、ＥＮＥＯＳの代理人に依頼しています。
 
 </div>
 
