@@ -14,7 +14,7 @@
 <p class="small">本ページは判決文を記載しています。下線や右側の記載は原告による判決文についての注記です。スマホなどの端末では見づらい場合もありますので、装飾がない判決文をこちら <a href="https://fuseimatome.github.io/docs/quote.html#id1"><i class="fa-solid fa-link"></i></a> に記載しています。</span>
 
 
-<p class="small">高裁判決で地裁判決が補正された部分でも分かるとおり、判決文における認定事実や原告の主張に関する内容は、主張書面や書証の記載からのキリトリを繋げているので、総じて不正確です。
+<p class="small">高裁判決により地裁判決が補正された部分でも分かるとおり、判決文における認定事実や原告の主張に関する内容は、主張書面や書証の記載からのキリトリを繋げているので、総じて不正確です。
 
 <p class="small">ひとつひとつの言葉は間違っていなくても、足りない部分があるなどで意味合いの違う文脈になっているという感じです。特に、原告の主張に関する内容は心外に思います。
 
@@ -63,9 +63,9 @@
 
 <p class="center">東京高裁判決　目次
 
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai1">第１</a>　控訴の趣旨
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai1">第１</a>　控訴の趣旨
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
 
 
 </div>
@@ -171,28 +171,28 @@
 
 <p class="center">東京地裁判決　目次
 
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai1">第１</a>　請求
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-1">⑴</a>　争点１（内部通報制度における信義則上の義務違反）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-2">⑵</a>　争点２（不利益取扱い及びパワーハラスメントの有無）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-3">⑶</a>　争点３（人材育成体制における信義則上の義務違反等）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-4">⑷</a>　争点４（原告の損害）
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3">第３</a>　当裁判所の判断
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1">１</a>　認定事実
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-1">⑴</a>　本件通報１及び本件調査報告１に至る経緯等
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-2">⑵</a>　本件通報２及び本件調査報告２に至る経緯等
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-3">⑶</a>　本件措置に至る経緯等
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2">２</a>　争点１について
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-1">⑴</a>　（調査等の対応について）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-2">⑵</a>　（ＧＭ間での協議等について）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-3">⑶</a>　（通報情報の役員等への報告）
-<p class="idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-4">⑷</a>　（結論）
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-3">３</a>　争点２について
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-4">４</a>　争点３について
-<p class="idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-5">５</a>　小括
-<p class="idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai4">第４</a>　結論
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai1">第１</a>　請求
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-1">⑴</a>　争点１（内部通報制度における信義則上の義務違反）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-2">⑵</a>　争点２（不利益取扱い及びパワーハラスメントの有無）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-3">⑶</a>　争点３（人材育成体制における信義則上の義務違反等）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-4">⑷</a>　争点４（原告の損害）
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3">第３</a>　当裁判所の判断
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1">１</a>　認定事実
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-1">⑴</a>　本件通報１及び本件調査報告１に至る経緯等
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-2">⑵</a>　本件通報２及び本件調査報告２に至る経緯等
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-1-3">⑶</a>　本件措置に至る経緯等
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2">２</a>　争点１について
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-1">⑴</a>　（調査等の対応について）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-2">⑵</a>　（ＧＭ間での協議等について）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-3">⑶</a>　（通報情報の役員等への報告）
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-4">⑷</a>　（結論）
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-3">３</a>　争点２について
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-4">４</a>　争点３について
+<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-5">５</a>　小括
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai4">第４</a>　結論
 
 </div>
 
