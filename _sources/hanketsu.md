@@ -90,9 +90,9 @@
 <p class="hg-idt6-1">11月8日　　 原告は、労働組合本社支部の委員長と支部長に、本件について相談しました。
 <p class="hg-idt6-1">3月27日　　 原告は、社内ＳＮＳに、コンプライアンスホットライン制度の調査結果報告に対して疑問を呈する投稿をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-3-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その後、5月29日から翌年2月17日まで、10回投稿しました。
 <p class="small">2020年度
-<p class="hg-idt6-1">4月1日　　　2020年度の原告の担当業務は、「グループ内庶務」のみであり、 担当業務が「グループ内庶務」のみである社員は、部内では原告だけでした <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg2-1-2-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></i></a> 。
+<p class="hg-idt6-1">4月1日　　　2020年度の原告の担当業務は、「グループ内庶務」のみであり、 担当業務が「グループ内庶務」のみである社員は、部内では原告だけでした <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></i></a> 。
 <p class="small">2021年度
-<p class="hg-idt6-1">4月2日　　　法務部は、原告に、本件についての内容を社内ＳＮＳに投稿することを禁じました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-3-オ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
+<p class="hg-idt6-1">4月2日　　　法務部は、原告に、本件についての内容を社内ＳＮＳに投稿することを禁じました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg2-1-2-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">5月26日　 　原告は、〇〇社長及び法務部に、本件について訴訟提起することを通知しました。法務部は、原告に、訴訟に関する全ての行為についてオフィススペース及び会社貸与パソコン等を使用することを禁じました。
 <p class="hg-idt6-1">6月7日　　　原告は、訴訟提起しました。裁判で提出された書類は以下のとおりです。
 <p class="padleft6">原告提出書類<br>
