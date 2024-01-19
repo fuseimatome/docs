@@ -30,7 +30,7 @@
 
 地裁と高裁は、争点の「内部通報制度における信義則上の義務」について、「信義則上の義務違反があったということはできない」としたうえで棄却しましたが、原告は2023年8月に上告受理申立理由書を提出しています。
 
-判決文をこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) に記載しています。
+判決文はこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) に記載しています。
 
 
 ## <span style="color: #616161;">２ 何があったのか？</span>
@@ -66,7 +66,7 @@
 
 訴訟に関する事実は、裁判所に事実認定されている事実と事実認定されていない事実があります。以下は、**判決文の認定事実に基づく事実**です。
 
-どのような事実が認定されていて、どのような事実が認定されていないのかは、判決文を記載しているページ [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id2) のとおりです。 
+どのような事実が認定されていて、どのような事実が認定されていないのかは、判決文を記載しているページ [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) のとおりです。 
 
 
 
