@@ -102,6 +102,9 @@ h4 {
 .ur {
   border-bottom: 2px solid #d72d47;
 }
+.ut {
+  border-bottom: 1px solid #f37726;
+}
 .doc {
   margin-right: 120px;
   margin-left: 80px;

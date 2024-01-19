@@ -37,11 +37,11 @@
 
 <div class="box" markdown>
 
-<p class="small">通報に関する発端は、豪州企業が発行した請求書にＧＳＴが請求金額として記載されていたことでした。誤りと思われる請求書の記載について上司に報告したところ、対する上司の説明は不明瞭な点が多く、原告を誤導する意図があると思われました。後になってから、原告が契約条項の確認を取らずに支払い手続きをしたなどと叱責を受けるおそれを感じたため、内部通報制度を利用しました。
+<p class="small">通報に関する発端は、豪州企業が発行した請求書にＧＳＴが請求金額として記載されていたことでした。誤りと思われる請求書の記載について上司に報告したところ、対する上司の説明は不明瞭な点が多く、原告を誤導する意図を感じました。後になってから、原告が契約条項の確認を取らずに支払い手続きをしたなどと叱責を受けるおそれを感じたため、内部通報制度を利用しました。
 
 <p class="small">ＥＮＥＯＳの内部通報制度の正式名は「コンプライアンスホットライン制度」です。当時のイントラネットは、上司に相談しても解決しない場合にコンプライアンスホットライン制度を利用するよう促していました。そのため、原告は特定の個人の悪事を通報するというような意識はありませんでした。また、通報の際には、特定の個人の問題にならないように配慮しました。
 
-<p class="small">原告の通報は、当初、被通報者個人の問題として通報したものではありませんでした。上司に相談しても解決できなかったことにより後になってから困ることがあるので、原告は、通報窓口担当者に対して、問題のある業務プロセスについて、整理、標準化及び共有することの検討を進言していました。ですので、管理部門が社内周知で業務上誤りやすい箇所として注意喚起をすれば済む程度の内容の通報でした。
+<p class="small">原告の通報は、当初、被通報者個人の問題として通報したものではありませんでした。上司に相談しても解決できなかったことにより後になってから困ることがあるので、原告は、通報窓口担当者に対して、問題のあるプロセスは放置しないほうがいい旨を伝えていました。ですので、管理部門が社内周知で業務上誤りやすい箇所として注意喚起をすれば済む程度の内容の通報でした。
 
 <p class="small">ところが、通報を受けてＥＮＥＯＳが行った措置は、「ＧＳＴの業務」を移管する旨を通知したあと、豪州子会社（※※※）が本社に対して送金するという措置でした。豪州子会社（※※※）が本社に送金した金銭については、本社が支払ったＧＳＴに係る還付金ともとれる内容の部長報告がありましたが、還付金の金額を示さないなど会計処理の報告としては不明瞭なところがありました。
 
@@ -65,23 +65,22 @@
 <p class="small">2015年度
 <p class="hg-idt6-1">11月11日　　原告は、豪州企業に対する支払いの際、ＧＳＴ分を上乗せした金額で支払い手続きをしてしまいました。
 <p class="hg-idt6-1">1月8日　　　原告は、上司に、豪州企業に対してＧＳＴを支払ってしまったことを報告しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">3月31日　　 年度末のため、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司の回答は、原告を誤導する意図があると思われました。
-<p class="padleft6">支払ったＧＳＴに関して上司に質問したあとに、原告は、平成２８年３月業務命令を命じられました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、ＧＤＰ等の時系列データをExcelアドインの線形回帰分析に投入して生産量を予測するというものです。
+<p class="hg-idt6-1">3月31日　　 年度末のため、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、<strong>上司の回答は不明瞭な点が多く、原告を誤導する意図を感じました。</strong>
+<p class="padleft6"><span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２８年３月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、ＧＤＰ等の時系列データを Excel アドインの線形回帰分析に投入して生産量を予測するというものです。
 <p class="small">2016年度
-<p class="hg-idt6-1">9月14日　　 原告は、本件通報１をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-エ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="padleft6">コンプライアンスホットライン規程は、通報の定義を「各号に定める状態を発見し、またはその報告を受けた場合に、これを是正する目的でこの内容を告げる行為」と定義しており、また、「調査とは、通報情報に関する事実を確認するための調査をいう」と規定しているため、原告は、見聞きした事実を記載して通報しました。裁判所は、この内容について、「本件フォーム上で事実経過の説明として記載されたにすぎない事項（判決文原文ママ）」と判断したようです。
+<p class="hg-idt6-1">9月14日　　 原告は、<strong>本件通報１</strong>をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-エ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">11月7日　　 通報窓口担当者のアドバイスにより、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司は、原告の質問に対して回答しませんでした。
-<p class="hg-idt6-1">　　8日　　 支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
+<p class="hg-idt6-1">　　8日　　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
 <p class="hg-idt6-1">2月7日　　　原告が知らないうちに、本件通報１に関して、通報窓口担当者と上司が協議を行っていました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。協議の内容は分かりません。	
 <p class="hg-idt6-1">3月9日　　　本件通報１に係る「ＧＳＴの業務」について〇〇〇〇〇〇〇〇グループから〇〇業務グループに移管する旨の通知がされました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="small">2017年度
 <p class="hg-idt6-1">5月11日　　 原告がときおり受信する「ＧＳＴの業務」に関するメールの内容が不明瞭なので、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司の回答は、「ＧＳＴの業務」を移管したという回答でした。
-<p class="hg-idt6-1">　 12日　　 支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データをExcelアドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
+<p class="hg-idt6-1">　 12日　　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データを Excel アドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
 <p class="hg-idt6-1">8月14日　　 通報窓口担当者は、原告に、本件調査報告１をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-シ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">10月16日　　通報に対する措置と思われる内容の部長報告がありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「オーストラリアＧＳＴの過年度支払分については、豪州子会社（※※※）において同年９月までに還付請求を実施し、豪州子会社（※※※）への還付額については被告への戻入れも実施済みである、具体的処理は、経理部の指示に従って、支払の際は一般管理費で計上し、戻入れの際は雑収入で計上した（伏字以外は判決文原文ママ）」というものです。この部長報告は、金額を示さないなど会計処理の報告としては不明瞭なところがありました。
+<p class="hg-idt6-1">10月16日　　通報に対する措置と思われる内容の部長報告がありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「オーストラリアＧＳＴの過年度支払分については、豪州子会社（※※※）において同年９月までに還付請求を実施し、豪州子会社（※※※）への還付額については被告への戻入れも実施済みである、具体的処理は、経理部の指示に従って、支払の際は一般管理費で計上し、戻入れの際は雑収入で計上した（伏字以外は判決文原文ママ）」というものです。この部長報告は、<strong>金額を示さないなど会計処理の報告としては不明瞭</strong>なところがありました。
 <p class="small">2018年度
 <p class="hg-idt6-1">4月1日　　　2018年度の原告の担当業務は、「グループ内庶務」のみであり、 担当業務が「グループ内庶務」のみである社員は、部内では原告だけでした <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-イ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">11月27日　　原告は、本件通報２をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
+<p class="hg-idt6-1">11月27日　　原告は、<strong>本件通報２</strong>をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">3月13日　　 「今後の女性活躍推進について」と題する社長メッセージがありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。そのメッセージには、全ての社員に男女を問わず一層活躍してもらうという基本方針の下、マインド・スキルの向上等を目的とした研修実施や「新たな成長機会につながる異動」を行っていく旨等が記載されていました。
 <p class="small">2019年度
 <p class="hg-idt6-1">10月25日　　通報窓口担当者は、原告に、本件調査報告２をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-キ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
@@ -364,7 +363,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.4</span>
 :class: Caution
-<span class="mini">被告の主張（ＥＮＥＯＳ側の主張）に関する判決文の文面上での記載は、判決文全体を見ても、<span class="u">「否認又は争う。」の７文字だけ</span>となっています。本件訴訟は、実質として、損害賠償請求というよりは、法令解釈の判断を求めている意味合いがあるからかもしれません。</span>
+<span class="mini">被告の主張（ＥＮＥＯＳ側の主張）に関する判決文の文面上での記載は、判決文全体を見ても、なぜか、<span class="u">「否認又は争う。」の７文字だけ</span>となっています。本件訴訟は、実質として、損害賠償請求というよりは、法令解釈の判断を求めている意味合いがあるからかもしれません。</span>
 ````
 `````
 
@@ -442,10 +441,9 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.6</span>
 :class: Caution
-<span class="mini">コンプライアンスホットライン規程は、<span class="u">「調査とは、通報情報に関する事実を確認するための調査をいう」</span>と規定しています。そのため、原告は、上司から伝えられた内容や事実をありのままに通報しました。通報情報に該当しないのであれば、コンプライアンスホットライン規程で規定している<span class="u">「調査を実施しない場合はその旨および理由」</span>を通知するべきであったといえます。</span>
+<span class="mini">コンプライアンスホットライン規程は、通報の定義を「各号に定める状態を発見し、またはその報告を受けた場合に、これを是正する目的でこの内容を告げる行為」と定義しており、また、「調査とは、通報情報に関する事実を確認するための調査をいう」と規定しているため、原告は、見聞きした事実を記載して通報しました。裁判所は、原告の通報内容について、事実経過の説明として記載されたにすぎない事項（判決文原文ママ）」と判断したようです。</span>
 ````
 `````
-
 
 <p class="hg-idt3">エ　<a name="jdg3-1-1-エ"></a>原告は、平成２８年９月１４日、<span class="u"><sub>No.6 </sub>社内通報窓口のメールアドレスに「コンプライアンスホットライン通報用フォーム」と題するファイル（以下「本件フォーム」という。）を添付したメールを送信した</span>（本件通報１）。
 
@@ -457,8 +455,16 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.7</span>
 :class: Caution
-<p><span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。原告は通報窓口担当者に、<span class="u">問題のある業務プロセスについて、整理、標準化及び共有することの検討を進言していました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span></p>
+<p><span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。原告は通報窓口担当者に、<span class="u">問題のあるプロセスは放置しないほうがいい旨を伝えていました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span></p>
 
+````
+`````
+
+
+`````{margin} 
+````{admonition} <span class="mini-title-r">Important</span>
+:class: Danger
+<span class="mini">原告は上司の言葉に嘘があると感じていましたが、上司個人の問題にならないようにと考えて、確認したいポイントとして業務上の内容を伝え、問題のあるプロセスは放置しないほうがいい旨を伝えました。<span class="ur">経費支払いに関する通報でしたので、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
