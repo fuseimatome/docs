@@ -129,7 +129,7 @@
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
 <p class="small">
-<p class="small">原告による注釈<br>
+<p class="small">原告による注釈のリンク<br>
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>, 
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
 
@@ -258,7 +258,7 @@
 <p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-5">５</a>　小括
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai4">第４</a>　結論
 <p class="small">
-<p class="small">原告による注釈<br>
+<p class="small">原告による注釈のリンク<br>
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a>, 
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.4">No.4</a>,
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.5">No.5</a>, 
