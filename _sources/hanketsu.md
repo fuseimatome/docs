@@ -72,7 +72,7 @@
 <p class="hg-idt6-1">11月7日　　 通報窓口担当者のアドバイスにより、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司は、原告の質問に対して回答しませんでした。
 <p class="hg-idt6-1">　　8日　　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
 <p class="hg-idt6-1">2月7日　　　原告が知らないうちに、本件通報１に関して、被通報者と通報窓口担当者が協議を行っていました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。協議の内容は分かりません。	
-<p class="hg-idt6-1">3月9日　　　本件通報１に係るＧＳＴの業務について移管する旨の通知がされました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。しかし、「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。
+<p class="hg-idt6-1">3月9日　　　本件通報１に係る「ＧＳＴの業務」について移管する旨の通知がされました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。しかし、「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。
 <p class="small">2017年度
 <p class="hg-idt6-1">5月11日　　 原告がときおり受信する「ＧＳＴの業務」に関するメールの内容が不明瞭なので、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司の回答は、「ＧＳＴの業務」を移管したという旨の回答でした。
 <p class="hg-idt6-1">　 12日　　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データを Excel アドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
