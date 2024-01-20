@@ -714,7 +714,7 @@
 `````{margin} 
 ````{admonition} <a name="No.19"></a><span class="mini-title">No.19</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id4) に記載してます。また、最高裁平成３０年２月１５日第一小法廷判決 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/app/files/hanrei_jp/458/087458_hanrei.pdf) の引用は、こちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/quote.html#id3) に記載してます。</span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id4) に記載しています。また、最高裁平成３０年２月１５日第一小法廷判決 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/app/files/hanrei_jp/458/087458_hanrei.pdf) の引用は、こちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/quote.html#id3) に記載しています。</span>
 ````
 `````
 
@@ -724,7 +724,7 @@
 `````{margin} 
 ````{admonition} <a name="No.20"></a><span class="mini-title">No.20</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id5) と こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id7)  に記載してます。</span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id5) と こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id7)  に記載しています。</span>
 ````
 `````
 
@@ -736,7 +736,7 @@
 `````{margin} 
 ````{admonition} <a name="No.21"></a><span class="mini-title">No.21</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id6) に記載してます。</span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id6) に記載しています。</span>
 ````
 `````
  
