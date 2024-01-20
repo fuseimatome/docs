@@ -189,10 +189,11 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-</a><span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i> <i class="fa-solid fa-burst"></i> <i class="fa-solid fa-burst"></i></span>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span><br>
+<span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです</span></span><br>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
-
 
 <p class="hg-idt2">⑵　<span class="u"><sub>No.1 </sub><a name="hosei2"></a>原判決９頁１５行目末尾に改行の上、次のとおり加える。</span>
 
@@ -204,9 +205,9 @@
 
 
 `````{margin} 
-````{admonition} <a name="No.2"><span class="mini-title">No.2 </span>
+````{admonition} <a name="No.2"></a><span class="mini-title">No.2 </span>
 :class: Caution
-<a name="No.3"><span class="mini">正確には、「このまま業務実態が明らかにされないのであれば、業務を移管する旨の通知自体が嘘である可能性も高く、」というように主張していました。<span class="u">原告は、「嘘の通知である」というように確実ではないことを断定するような主張をしていません。</span></span>
+<span class="mini">正確には、「このまま業務実態が明らかにされないのであれば、業務を移管する旨の通知自体が嘘である可能性も高く、」というように主張していました。<span class="u">原告は、「嘘の通知である」というように確実ではないことを断定するような主張をしていません。</span></span>
 ````
 `````
 
