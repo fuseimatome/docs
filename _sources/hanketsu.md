@@ -188,9 +188,9 @@
 
 
 `````{margin} 
-````{admonition} <span class="mini-title-r">No.1-2</span>
+````{admonition} <span class="mini-title">No.1-2</span>
 :class: Caution
-<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span> <span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです。
+<span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです。</span>
 ````
 `````
 
