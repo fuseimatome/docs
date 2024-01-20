@@ -490,7 +490,7 @@
 `````{margin} 
 ````{admonition} </a><span class="mini-title">No.7-2</span>
 :class: Caution
-<span class="mini">一般的に、海外企業から日本企業に対してＧＳＴを請求することはほとんどないと思われます。経費支払いに関する通報でしたので、原告から言わなくても、当然に契約内容の確認が行われるものと考えていました。
+<span class="mini">一般的に、海外企業から日本企業に対してＧＳＴを請求することはほとんどないと思われます。<span class="u">経費支払いに関する通報でしたので、原告から言わなくても、当然に契約内容の確認が行われるものと考えていました。</span>
 ````
 `````
 
@@ -516,7 +516,11 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.8-2</span>
 :class: Caution
-<span class="mini">被告の返信メールの内容は事実認定しているのに、その被告の返信メールの前の原告のメールの内容を事実認定しないのは、<strong>さすがにヒドイ！と思います。</strong></span>
+<span class="mini">被告の返信メールの内容は事実認定しているのに、その被告の返信メールの前の原告のメールの内容を事実認定しないのは、</span><br>
+<br>
+<span class="center"><span class="mini">さすがにヒドイ！</span></span><br>
+<br>
+<span class="mini">と思います。</span>
 ````
 `````
 
