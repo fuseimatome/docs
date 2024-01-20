@@ -508,7 +508,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.9</span>
 :class: Caution
-<span class="mini"><span class="u">「ＧＳＴの業務」を移管する旨を通知しましたが、<span class="u">「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。</span></span>
+<span class="mini">「ＧＳＴの業務」を移管する旨を通知しましたが、<span class="u">「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。</span>
 ````
 `````
 
