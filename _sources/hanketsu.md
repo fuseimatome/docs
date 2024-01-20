@@ -129,8 +129,8 @@
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
 <p class="small">
-<p class="small">原告による注釈
-<p class="small"><a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
+<p class="small">原告による注釈<br>
+<a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
 
 </div>
 
@@ -179,9 +179,9 @@
 
 
 `````{margin} 
-````{admonition} <span class="mini-title">No.1</span>
+````{admonition} <a name="No.1"></a><span class="mini-title">No.1</span>
 :class: Caution
-<a name="No.1"></a><span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#hosei5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.jdla.org/certificate/engineer/) を保有しています。</span>
+<span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#hosei5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.jdla.org/certificate/engineer/) を保有しています。</span>
 ````
 `````
 
@@ -204,9 +204,9 @@
 
 
 `````{margin} 
-````{admonition} <span class="mini-title">No.2 </span>
+````{admonition} <a name="No.2"><span class="mini-title">No.2 </span>
 :class: Caution
-<a name="No.2"><a name="No.3"><span class="mini">正確には、「このまま業務実態が明らかにされないのであれば、業務を移管する旨の通知自体が嘘である可能性も高く、」というように主張していました。<span class="u">原告は、「嘘の通知である」というように確実ではないことを断定するような主張をしていません。</span></span>
+<a name="No.3"><span class="mini">正確には、「このまま業務実態が明らかにされないのであれば、業務を移管する旨の通知自体が嘘である可能性も高く、」というように主張していました。<span class="u">原告は、「嘘の通知である」というように確実ではないことを断定するような主張をしていません。</span></span>
 ````
 `````
 
