@@ -72,7 +72,7 @@
 <p class="hg-idt6-1">11月7日　　 通報窓口担当者のアドバイスにより、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司は、原告の質問に対して回答しませんでした。
 <p class="hg-idt6-1">　　8日　　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
 <p class="hg-idt6-1">2月7日　　　原告が知らないうちに、本件通報１に関して、被通報者と通報窓口担当者が協議を行っていました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。協議の内容は分かりません。	
-<p class="hg-idt6-1">3月9日　　　本件通報１に係る「ＧＳＴの業務」について移管する旨の通知がされました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。しかし、「ＧＳＴの業務」は、これまでどのような業務を行っていたのかは未だに不明です。
+<p class="hg-idt6-1">3月9日　　　<strong>本件通報１に係る「ＧＳＴの業務」について移管する旨の通知がされました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。しかし、「ＧＳＴの業務」は、これまでどのような業務を行っていたのかは未だに不明です。</strong>
 <p class="small">2017年度
 <p class="hg-idt6-1">5月11日　　 原告がときおり受信する「ＧＳＴの業務」に関するメールの内容が不明瞭でしたので、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司の回答は、「ＧＳＴの業務」を移管したという旨の回答でした。
 <p class="hg-idt6-1">　 12日　 　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データを Excel アドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
@@ -187,11 +187,9 @@
 
 
 `````{margin} 
-````{admonition} <span class="mini-title-r">Important</span>
+````{admonition} <span class="mini-title-r">Note-1</span>
 :class: Danger
-<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span><br>
-<span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです</span></span><br>
-<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span> <span class="mini">原油価格の時系列データを線形回帰分析に投入して時系列の予測をさせることは、しかも、Excel で分析させるとは、<span class="ur">ＥＮＥＯＳ側が主張するように、その分析結果を使って部長説明をしたとしても、パワーハラスメントです。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
@@ -466,7 +464,9 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-<span class="mini">上司の回答に原告を誤導する意図を感じていたものの、原告は、上司個人の問題にならないようにと考えて、通報窓口担当者に対して、業務上で起きていること、その問題点及びプロセス改善についての提言を伝えました。<span class="ur">経費支払いに関する通報でしたので、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span><br>
+<span class="mini">上司の回答に原告を誤導する意図を感じていたものの、原告は、上司個人の問題にならないようにと考えて、通報窓口担当者に対して、業務上で起きていること、その問題点及びプロセス改善についての提言を伝えました。<span class="ur">経費支払いに関する通報でしたので、当然に契約内容の確認が行われるものと考えていました。</span></span><br>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
@@ -492,7 +492,9 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-<span class="mini">被告の返信メールの内容は事実認定しているのに、その被告の返信メールの前の原告のメールの内容を事実認定しないのは、<span class="ur">さすがにヒドイと思います</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span><br>
+<span class="mini">被告の返信メールの内容は事実認定しているのに、その被告の返信メールの前の原告のメールの内容を事実認定しないのは、<span class="ur">さすがにヒドイと思います。</span></span><br>
+<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
