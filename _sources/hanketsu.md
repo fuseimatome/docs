@@ -464,7 +464,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-<span class="mini">原告は上司の回答に原告を誤導する意図を感じていましたが、上司個人の問題にならないようにと考えて、確認したいポイントとして業務上の内容を伝え、問題のあるプロセスは放置しないほうがいい旨を伝えました。<span class="ur">経費支払いに関する通報でしたので、この時点では、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span class="mini">原告は上司の回答に原告を誤導する意図を感じてたものの、上司個人の問題にならないようにと考えて、確認したいポイントとして業務上の内容を伝え、問題のあるプロセスは放置しないほうがいい旨を伝えました。<span class="ur">経費支払いに関する通報でしたので、この時点では、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
@@ -508,7 +508,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.9</span>
 :class: Caution
-<span class="mini">「ＧＳＴの業務」を移管する旨を通知しましたが、<span class="u">「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。</span>
+<span class="mini">通報１に係る「ＧＳＴの業務」について移管する旨の通知がされました。しかし、<span class="u">「ＧＳＴの業務」として、これまでどのような業務を行っていたのかは未だに不明です。</span>
 ````
 `````
 
@@ -546,9 +546,10 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.12</span>
 :class: Caution
-<span class="mini">調査の結果は、「コンプライアンス違反ではない」という結果でしたので、何かしらを調査した結果であるはずですが、<span class="u">何を調査したのか、何が「コンプライアンス違反ではない」のか分かりませんでした。</span></span>
+<span class="mini">調査の結果は、「コンプライアンス違反ではない」という結果でしたので、何かしらを調査した結果であるはずです。しかしながら、<span class="u">何を調査したのかや、何が「コンプライアンス違反ではない」のか分かりませんでした。</span></span>
 ````
 `````
+
 
 <p class="hg-idt3">シ　<a name="jdg3-1-1-シ"></a>〇〇は、<span class="u"><sub>No.12 </sub>平成２９年８月１４日、原告に対し、本件調査報告１をした。</span>
 
@@ -642,7 +643,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.17</span>
 :class: Caution
-<span class="mini">ここでは、ＥＮＥＯＳが契約内容を確認したことを事実認定していますが、<span class="u">ＥＮＥＯＳは、経費支払いの際にＧＳＴを支払うべきだったのかどうかを契約内容から検証していません。</span>判決文の他の部分では、契約に関する内容を事実認定していませんが、この部分については、契約に関する内容の一部だけを抜き出して事実認定しています。</span>
+<span class="mini">ここでは、ＥＮＥＯＳが契約内容を確認したことを事実認定しています。しかしながら、<span class="u">ＥＮＥＯＳは、経費支払いの際にＧＳＴを支払うべきだったのかどうかを契約内容から検証していません。</span>判決文の他の部分では、契約に関する内容を事実認定していないものの、ここの部分については、契約に関する内容の一部だけを抜き出して事実認定しています。</span>
 ````
 `````
 
@@ -673,7 +674,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.18</span>
 :class: Caution
-<span class="mini"><span class="u">判決文には記載されていませんが、原告が強く主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>このように抜けているところがありますので、原告の主張に関する判決文の文面は、読み手を誤導する文面です。</span>
+<span class="mini"><span class="u">原告が強く主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>上記の原告の主張について判決文は記載していません。このように抜けているところがありますので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
 ````
 `````
 
@@ -821,7 +822,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.26</span>
 :class: Caution
-<span class="mini"><span class="u">ＥＮＥＯＳ側は、原告分のみの人事評価であるにもかかわらず、この人事評価について「第三者閲覧制限の申立て」[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/tokyo/saiban/minzi_section29_40_46_47/eturannseigenn/index.html#:~:text=%E9%96%B2%E8%A6%A7%E7%AD%89%E5%88%B6%E9%99%90%E3%81%AE%E7%94%B3%E7%AB%8B,%E6%B3%9592%E6%9D%A11%E9%A0%85%EF%BC%89%E3%80%82) を行いました。</span>原告は意見書を提出しましたが、裁判所は第三者閲覧制限を認めました。実際にはもっとヒドイ言葉もありましたので、原告は人格否定と受け取っています。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
+<span class="mini"><span class="u">ＥＮＥＯＳ側は、原告分のみの人事評価であるにもかかわらず、この人事評価について「第三者閲覧制限の申立て」[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/tokyo/saiban/minzi_section29_40_46_47/eturannseigenn/index.html#:~:text=%E9%96%B2%E8%A6%A7%E7%AD%89%E5%88%B6%E9%99%90%E3%81%AE%E7%94%B3%E7%AB%8B,%E6%B3%9592%E6%9D%A11%E9%A0%85%EF%BC%89%E3%80%82) を行いました。</span>原告も意見書を提出しています。結果として、第三者閲覧制限は認められました。実際にはもっとヒドイ言葉が人事評価コメントにありましたので、原告は人格否定と受け取っています。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
@@ -838,7 +839,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-<span class="mini">請求書を発行していない多数の債権の回収をさせられていました。請求書を発行していないので、前担当も債権が回収できていなかったのですが、上司の権限で前担当の時の債権残高を取り消し、以前については債権が回収できない問題はなかったとしました。<span class="ur">再び、当時と同様、問題のある業務プロセスであるにもかかわらず、原告個人の問題とされる事態になることを恐れて通報をしました</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span class="mini">請求書を発行していない多数の債権の回収をさせられていました。請求書を発行していないので、原告の前の担当も債権が回収できず、１年以上も債権残高が残っていました。この債権残高を上司の権限で取り消したうえで、以前については債権が回収できない問題はなかったとしました。<span class="ur">再び、当時と同様、問題のある業務プロセスであるにもかかわらず、原告個人の問題とされる事態になることを恐れて通報をしました</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
