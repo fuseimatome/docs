@@ -464,7 +464,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title-r">Important</span>
 :class: Danger
-<span class="mini">原告は上司の言葉に嘘があると感じていましたが、上司個人の問題にならないようにと考えて、確認したいポイントとして業務上の内容を伝え、問題のあるプロセスは放置しないほうがいい旨を伝えました。<span class="ur">経費支払いに関する通報でしたので、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
+<span class="mini">原告は上司の回答に原告を誤導する意図を感じていましたが、上司個人の問題にならないようにと考えて、確認したいポイントとして業務上の内容を伝え、問題のあるプロセスは放置しないほうがいい旨を伝えました。<span class="ur">経費支払いに関する通報でしたので、この時点では、当然に契約内容の確認が行われるものと考えていました。</span></span> <span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span>
 ````
 `````
 
