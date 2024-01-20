@@ -483,16 +483,14 @@
 `````{margin} 
 ````{admonition} <a name="No.7"></a><span class="mini-title">No.7</span>
 :class: Caution
-<p><span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。原告は通報窓口担当者に、<span class="u">プロセス改善についての提言を伝えていました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span></p>
-
+<span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。上司の言動から原告を誤導する意図を感じていたものの、<span class="u">原告は、上司個人の問題とされないようにと考えて、通報窓口担当者に対して、業務プロセスの問題として通報しました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
-
 `````{margin} 
-````{admonition} <span class="mini-title">No.7-2</span>
+````{admonition} </a><span class="mini-title">No.7-2</span>
 :class: Caution
-<span class="mini">上司の言動から原告を誤導する意図を感じていたものの、原告は、上司個人の問題とされないようにと考えて、通報窓口担当者に対して、業務プロセスの問題として通報しました。<span class="u">経費支払いに関する通報でしたので、原告から言わなくても、当然に契約内容の確認が行われるものと考えていました。</span></span>
+<span class="mini">一般的に、海外企業から日本企業に対してＧＳＴを請求することはほとんどないと思われます。経費支払いに関する通報でしたので、原告から言わなくても、当然に契約内容の確認が行われるものと考えていました。
 ````
 `````
 
