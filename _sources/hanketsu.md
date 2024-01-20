@@ -84,7 +84,7 @@
 <p class="hg-idt6-1">3月13日　　 「今後の女性活躍推進について」と題する社長メッセージがありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。そのメッセージには、全ての社員に男女を問わず一層活躍してもらうという基本方針の下、マインド・スキルの向上等を目的とした研修実施や「新たな成長機会につながる異動」を行っていく旨等が記載されていました。
 <p class="small">2019年度
 <p class="hg-idt6-1">10月25日　　通報窓口担当者は、原告に、本件調査報告２をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-キ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">11月6日　　 本件調査報告２の際、通報窓口担当者の行為が感情的でしたので、その旨を〇〇社長へメールしました。
+<p class="hg-idt6-1">11月6日　　 本件調査報告２の際、通報窓口担当者の行為が感情的でしたので、その旨を幹部役員へメールしました。
 <p class="hg-idt6-1">12月3日　　 通報窓口担当者は、原告の質問に対して回答しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「取引に税金が課されるか否かは、契約書ではなく国が決めることであるので、契約書を確認する必要はない、ＪＸＡの財務諸表については会計監査人から適正意見を得ており、勘定科目についてこれ以上調べる必要はない（判決文原文ママ）」でした。
 <p class="hg-idt6-1">11月8日　　 原告は、労働組合本社支部の委員長と支部長に、本件について相談しました。
 <p class="hg-idt6-1">3月27日　　 原告は、社内ＳＮＳに、コンプライアンスホットライン制度の調査結果報告に対して疑問を呈する投稿をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-3-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その後、5月29日から翌年2月17日まで、10回投稿しました。
@@ -92,7 +92,7 @@
 <p class="hg-idt6-1">4月1日　　　2020年度の原告の担当業務は、「グループ内庶務」のみであり、 担当業務が「グループ内庶務」のみである社員は、部内では原告だけでした <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></i></a> 。
 <p class="small">2021年度
 <p class="hg-idt6-1">4月2日　　　法務部は、原告に、本件についての内容を社内ＳＮＳに投稿することを禁じました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg2-1-2-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">5月26日　 　原告は、〇〇社長及び法務部に、本件について訴訟提起することを通知しました。法務部は、原告に、訴訟に関する全ての行為についてオフィススペース及び会社貸与パソコン等を使用することを禁じました。
+<p class="hg-idt6-1">5月26日　 　原告は、幹部役員及び法務部に、本件について訴訟提起することを通知しました。法務部は、原告に、訴訟に関する全ての行為についてオフィススペース及び会社貸与パソコン等を使用することを禁じました。
 <p class="hg-idt6-1">6月7日　　　原告は、訴訟提起しました。本件訴訟で提出された書類は以下のとおりです。
 <p class="padleft6">原告提出書類<br>
 ・原告準備書面　⑴～⑼<br>
