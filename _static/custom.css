@@ -322,6 +322,13 @@ h4 {
     display:block;
     font-weight:bold;
   }
+  .strong {
+    color:#f37726;
+    text-align:left;
+    display:block;
+    font-size:12px;
+    margin-bottom:0;
+  }
   h1 {
     font-size:24px;
     margin-top: 48px;
