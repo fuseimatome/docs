@@ -492,7 +492,6 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.7-2</span>
 :class: Caution
-<span style="color: #d72d47;"><i class="fa-solid fa-burst"></i></span><br>
 <span class="mini">上司の回答に原告を誤導する意図を感じていたものの、原告は、上司個人の問題にならないようにと考えて、通報窓口担当者に対して、業務上で起きていること、その問題点及びプロセス改善についての提言を伝えました。<span class="u">経費支払いに関する通報でしたので、当然に契約内容の確認が行われるものと考えていました。</span></span>
 ````
 `````
