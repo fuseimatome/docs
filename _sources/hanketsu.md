@@ -517,7 +517,7 @@
 ````{admonition} <span class="mini-title">No.8-2</span>
 :class: Caution
 <span class="mini">被告の返信メールの内容は事実認定しているのに、その被告の返信メールの前の原告のメールの内容を事実認定しないのは、</span><br>
-<span class="center"><span class="mini"><span style="color: #f37726;">さすがにヒドイ！</span></span></span><br>
+<span class="strong">さすがにヒドイ！</span><br>
 <span class="mini">と思います。</span>
 ````
 `````

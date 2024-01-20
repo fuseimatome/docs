@@ -29,11 +29,6 @@
   font-weight:bold;
   color:#da864e;
 }
-.mini-title-r {
-  font-size:12px;
-  font-weight:bold;
-  color:#d72d47;
-}
 .right {
   font-size:12px;
   text-align:right;
@@ -99,11 +94,14 @@ h4 {
 .u {
   border-bottom: 2px solid #f37726;
 }
-.ur {
-  border-bottom: 2px solid #d72d47;
-}
 .ut {
   border-bottom: 1px solid #f37726;
+}
+.strong {
+  color:#f37726;
+  text-align:center;
+  display:block;
+  font-size:12px;
 }
 .doc {
   margin-right: 120px;
