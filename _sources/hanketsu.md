@@ -520,7 +520,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.10</span>
 :class: Caution
-<span class="mini">乙15には事実認定されていない記載があります。通報に関する連絡が半年以上も途絶えていたため、原告は通報窓口担当者に、<span class="u">コンプライアンスホットライン規程で規定している「調査を実施しない場合はその旨および理由」を伝えてほしい旨依頼していました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
+<span class="mini">乙15には事実認定されていない記載があります。通報に関する連絡が半年以上も途絶えていたため、原告は通報窓口担当者に、<span class="u">コンプライアンスホットライン規程で規定している「調査を実施しない場合はその旨および理由」を伝えてほしい旨を依頼していました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
@@ -606,7 +606,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.15</span>
 :class: Caution
-<span class="mini">コンプライアンスホットライン制度は、法令（法令、定款、契約、規程類等）に違反する行為または違反するおそれのある行為を早期に是正する目的で整備している制度です。<span class="u">制度の目的からすると、法令、定款、契約、規程類等を確認しなくても済むような調査対象の設定は、適切な設定とはいえないです。</span></span>
+<span class="mini">コンプライアンスホットライン制度は、法令（法令、定款、契約、規程類等）に違反する行為または違反するおそれのある行為を早期に是正する目的で整備している制度です。<span class="u">制度の目的からすると、法令、定款、契約、規程類等の内容を確認しなくても済むような調査対象の設定は、適切な設定とはいえないです。</span></span>
 ````
 `````
 
@@ -686,7 +686,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.19</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id4)</span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id4) に記載してます。また、最高裁平成３０年２月１５日第一小法廷判決 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/app/files/hanrei_jp/458/087458_hanrei.pdf) の引用は、こちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/quote.html#id3) に記載してます。</span>
 ````
 `````
 
@@ -696,7 +696,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.20</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id5) と こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id7) </span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id5) と こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id7)  に記載してます。</span>
 ````
 `````
 
@@ -708,7 +708,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.21</span>
 :class: Caution
-<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id6)</span>
+<span class="mini">原判決の法令解釈の誤りについては、こちら [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/index.html#id6) に記載してます。</span>
 ````
 `````
  
