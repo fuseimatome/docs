@@ -78,15 +78,14 @@
 <p class="hg-idt6-1">5月11日　　 原告がときおり受信する「ＧＳＴの業務」に関するメールの内容が不明瞭でしたので、原告は、上司に、支払ったＧＳＴに関して質問しました。しかし、上司の回答は、「ＧＳＴの業務」を移管したという旨の回答でした。
 <p class="hg-idt6-1">　 12日　 　 <span class="ut">支払ったＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データを Excel アドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
 <p class="hg-idt6-1">8月14日　　 通報窓口担当者は、原告に、本件調査報告１をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-シ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">10月16日　　通報に対する措置と思われる内容の部長報告がありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「オーストラリアＧＳＴの過年度支払分については、（豪州子会社 ※※※）において同年９月までに還付請求を実施し、（豪州子会社 ※※※）への還付額については被告への戻入れも実施済みである、具体的処理は、経理部の指示に従って、支払の際は一般管理費で計上し、戻入れの際は雑収入で計上した（伏字以外は判決文原文ママ）」というものです。この部長報告は、<strong>金額を示さないなど会計処理の報告としては不明瞭</strong>なところがありました。
+<p class="hg-idt6-1">10月16日　　通報に対する措置と思われる内容の部長報告がありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「オーストラリアＧＳＴの過年度支払分については、※※※において同年９月までに還付請求を実施し、※※※への還付額については被告への戻入れも実施済みである、具体的処理は、経理部の指示に従って、支払の際は一般管理費で計上し、戻入れの際は雑収入で計上した（伏字以外は判決文原文ママ）」というものです。この部長報告は、<strong>金額を示さないなど会計処理の報告としては不明瞭</strong>なところがありました。
 <p class="small">2018年度
 <p class="hg-idt6-1">4月1日　　　2018年度の原告の担当業務は、「グループ内庶務」のみであり、 担当業務が「グループ内庶務」のみである社員は、部内では原告だけでした <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-イ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">11月27日　　原告は、<strong>本件通報２</strong>をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">3月13日　　 「今後の女性活躍推進について」と題する社長メッセージがありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。そのメッセージには、全ての社員に男女を問わず一層活躍してもらうという基本方針の下、マインド・スキルの向上等を目的とした研修実施や「新たな成長機会につながる異動」を行っていく旨等が記載されていました。
 <p class="small">2019年度
 <p class="hg-idt6-1">10月25日　　通報窓口担当者は、原告に、本件調査報告２をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-キ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
-<p class="hg-idt6-1">11月6日　　 本件調査報告２の際、通報窓口担当者の行為が感情的でしたので、その旨を幹部役員へメールしました。
-<p class="hg-idt6-1">12月3日　　 通報窓口担当者は、原告の質問に対して回答しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「取引に税金が課されるか否かは、契約書ではなく国が決めることであるので、契約書を確認する必要はない、※※※の財務諸表については会計監査人から適正意見を得ており、勘定科目についてこれ以上調べる必要はない（伏字以外判決文原文ママ）」でした。
+<p class="hg-idt6-1">12月3日　　 通報窓口担当者は、原告の質問に対して回答しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「取引に税金が課されるか否かは、契約書ではなく国が決めることであるので、契約書を確認する必要はない、※※※の財務諸表については会計監査人から適正意見を得ており、勘定科目についてこれ以上調べる必要はない（伏字以外は判決文原文ママ）」でした。
 <p class="hg-idt6-1">11月8日　　 原告は、労働組合本社支部の委員長と支部長に、本件について相談しました。
 <p class="hg-idt6-1">3月27日　　 原告は、社内ＳＮＳに、コンプライアンスホットライン制度の調査結果報告に対して疑問を呈する投稿をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-3-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その後、5月29日から翌年2月17日まで、10回投稿しました。
 <p class="small">2020年度
