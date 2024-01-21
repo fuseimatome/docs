@@ -11,7 +11,7 @@
 
 <div class="box" markdown>
 
-<p class="small">本ページは判決文を記載しています。下線や右側の記載は原告による判決文についての注記です。スマホなどの端末では見づらい場合もありますので、装飾がない判決文をこちら <a href="https://fuseimatome.github.io/docs/quote.html#id1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> に記載しています。</span>
+<p class="small">本ページは判決文を記載しています。下線や右側の記載（No.1～No.27）は原告による判決文についての注記です。スマホなどの端末では見づらい場合もありますので、装飾がない判決文をこちら <a href="https://fuseimatome.github.io/docs/quote.html#id1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> に記載しています。</span>
 
 
 <p class="small">高裁判決により地裁判決が補正された部分でも分かるとおり、判決文における認定事実や原告の主張に関する内容は、主張書面や書証の記載からのキリトリを繋げているので、総じて不正確です。
@@ -129,7 +129,7 @@
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
 <p class="small">
-<p class="small">原告による注釈のリンク<br>
+<p class="small">注記へのリンク<br>
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>, 
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
 
@@ -258,7 +258,7 @@
 <p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-5">５</a>　小括
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai4">第４</a>　結論
 <p class="small">
-<p class="small">原告による注釈のリンク<br>
+<p class="small">注記へのリンク<br>
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a>, 
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.4">No.4</a>,
 <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.5">No.5</a>, 
