@@ -124,7 +124,7 @@
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
 <p>
-<p class="small">※ 注記や下線がない判決文はこちら<a href="https://fuseimatome.github.io/docs/quote.html#id1"> <span class="mini"><i class="fa-solid fa-link"></i> </a>です。また、No. は原告による注記へのリンクです。
+<p class="small">※ 注記や下線がない判決文はこちら<a href="https://fuseimatome.github.io/docs/quote.html#id1"> <span class="mini"><i class="fa-solid fa-link"></i> </a>です。また、No. は原告による判決文についての注記のリンクです。
 </div>
 
 ```` 
@@ -250,7 +250,7 @@
 <p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-5">５</a>　小括
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai4">第４</a>　結論
 <p>
-<p class="small">※ 注記や下線がない判決文はこちら<a href="https://fuseimatome.github.io/docs/quote.html#id2"> <span class="mini"><i class="fa-solid fa-link"></i> </a>です。また、No. は原告による注記へのリンクです。
+<p class="small">※ 注記や下線がない判決文はこちら<a href="https://fuseimatome.github.io/docs/quote.html#id2"> <span class="mini"><i class="fa-solid fa-link"></i> </a>です。また、No. は原告による判決文についての注記のリンクです。
 </div>
 
 ```` 
