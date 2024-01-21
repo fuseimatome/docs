@@ -11,7 +11,7 @@
 
 <div class="box" markdown>
 
-<p class="small">本ページは判決文を記載しています。下線や右側の記載（No.1～No.27）は原告による判決文についての注記です。スマホなどの端末では見づらい場合もありますので、注記や下線がない判決文をこちら <a href="https://fuseimatome.github.io/docs/quote.html#id1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> に記載しています。</span>
+<p class="small">本ページは判決文を記載しています。下線や右側の記載（No.1～No.27）は、原告による判決文についての注記です。スマホなどの端末では見づらい場合もありますので、注記や下線がない判決文をこちら <a href="https://fuseimatome.github.io/docs/quote.html#id1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> に記載しています。</span>
 
 <p class="small">高裁判決により地裁判決が補正された部分でも分かるとおり、判決文における認定事実や原告の主張に関する内容は、主張書面や書証の記載からのキリトリを繋げているので、総じて不正確です。
 
