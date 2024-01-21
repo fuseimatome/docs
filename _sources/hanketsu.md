@@ -17,9 +17,6 @@
 
 <p class="small">ひとつひとつの言葉は間違っていなくても、足りない部分があるなどで意味合いの違う文脈になっているという感じです。特に、原告の主張に関する内容 <a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2-1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> については、言葉の使い方により微妙にズレているので、心外に思います。
 
-<p class="small">原告は、事実と異なることを主張しないように、確実ではないことを断定しないように、とってもとっても気をつかっているので、裁判所はこの点を留意してほしいものです。
-
-
 </div>
 
 ```` 
