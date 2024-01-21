@@ -65,7 +65,7 @@
 <p class="small">2016年度
 <p class="hg-idt6-1">9月14日　　 原告は、<strong>本件通報１</strong>をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-エ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">11月7日　　 通報窓口担当者からのアドバイスがあったため、上司に本件ＧＳＴに関して質問したものの、上司は、原告の質問に対して回答しませんでした。
-<p class="hg-idt6-1">　　8日　　 <span class="ut"><sub>2 </sub>本件ＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
+<p class="hg-idt6-1">　　8日　 　 <span class="ut"><sub>2 </sub>本件ＧＳＴに関して上司に質問したあとに、原告は、「平成２８年１１月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-カ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、税務グループ主催「国際税務に関する研修会」の資料を〇〇事業部向けに加工して説明するというものです。なお、税務グループ主催の研修会は、社内の受講希望者が16回の開催日時から都合のよい日時を選択できる研修会であり、研修会資料もイントラネットに掲示されています。
 <p class="hg-idt6-1">2月7日　　　原告が知らないうちに、本件通報１に関して、被通報者と通報窓口担当者が協議を行っていました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。協議の内容は分かりません。	
 <p class="hg-idt6-1">3月9日　　　本件通報１に係る「ＧＳＴの業務」について移管する旨の通知がされたものの <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 、移管したとする「ＧＳＴの業務」は、これまでどのような業務を行っていたのかは未だに不明です。
 <p class="small">2017年度
@@ -668,7 +668,7 @@
 `````{margin} 
 ````{admonition} <a name="No.18"></a><span class="mini-title">No.18</span>
 :class: Caution
-<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>続けて、ＥＮＥＯＳ側の主張に対して反論するかたちで主張していました。判決文は、原告が業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) について主張していたことを記載していません。このように抜けているところがあるので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
+<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>この主張に続けて、ＥＮＥＯＳ側の主張に対して反論するというかたちで主張していました。判決文は、原告が業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) について主張していたことを記載していません。判決文は、このように抜けているところがあり、また、言葉の使い方により微妙に意味合いがズレているところがあるので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
 ````
 `````
 
@@ -799,7 +799,7 @@
 `````{margin} 
 ````{admonition} <a name="No.25"></a><span class="mini-title">No.25</span>
 :class: Caution
-<span class="mini">原告が主張したことは、他の社員が携帯するPHSに着信した電話の対応を担当業務としたことです。これは、PHSの特性を考えると合理的とはいえません。<span class="u">原告は、「電話対応を依頼されることがあったことが問題」というような主張はしていません。</span></span>
+<span class="mini">原告が主張したことは、他の社員が携帯するＰＨＳに着信した電話の対応を担当業務としたことです。これは、ＰＨＳの特性を考えると合理的とはいえません。<span class="u">原告は、「電話対応を依頼されることがあったことが問題」というような主張はしていません。</span></span>
 ````
 `````
 
