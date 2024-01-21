@@ -668,7 +668,7 @@
 `````{margin} 
 ````{admonition} <a name="No.18"></a><span class="mini-title">No.18</span>
 :class: Caution
-<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>この主張に続けて、ＥＮＥＯＳ側の主張に対して反論するというかたちで主張していました。判決文における原告の主張に関する記載は抜けている部分があり、また、言葉の使い方により微妙に意味合いがズレているところがあるので、微妙に読み手を誤導する文面です。</span>
+<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>この主張に続けて、ＥＮＥＯＳ側の主張に対して反論するというかたちで主張していました。判決文における原告の主張に関する記載は、ＥＮＥＯＳが業務の適正を確保するための体制を整備していたという肝心なことが抜けており、また、言葉の使い方により微妙に意味合いがズレているところがあるので、微妙に読み手を誤導する文面です。</span>
 ````
 `````
 
