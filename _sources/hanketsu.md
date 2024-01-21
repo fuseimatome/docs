@@ -519,7 +519,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.8-2</span>
 :class: Caution
-<span class="mini">12月16日に被告が原告に返信したメールの内容を事実認定しています。しかしながら、その前の12月16日に原告が送信したメールの内容を事実認定していません。</span><br>
+<span class="mini">12月16日に被告が原告に返信したメールの内容を事実認定しています。しかしながら、その返信メールの前の12月16日に原告が送信したメールの内容を事実認定していません。</span><br>
 <span class="strong">これは、さすがにヒドイ！</span>
 <span class="mini">と思います。</span>
 ````
