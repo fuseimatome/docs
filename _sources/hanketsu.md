@@ -234,8 +234,8 @@
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
 <p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a> 
 <p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
-<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-1">⑴</a>　争点１（内部通報制度における信義則上の義務違反）,<a href="https://fuseimatome.github.io/docs/hanketsu.html#No.4">No.4</a>
-<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-2">⑵</a>　争点２（不利益取扱い及びパワーハラスメントの有無）,<a href="https://fuseimatome.github.io/docs/hanketsu.html#No.5">No.5</a>
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-1">⑴</a>　争点１（内部通報制度における信義則上の義務違反）, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.4">No.4</a>
+<p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-2">⑵</a>　争点２（不利益取扱い及びパワーハラスメントの有無）, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.5">No.5</a>
 <p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-3">⑶</a>　争点３（人材育成体制における信義則上の義務違反等）
 <p class="hg-idtm3-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2-4">⑷</a>　争点４（原告の損害）
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai3">第３</a>　当裁判所の判断
@@ -671,7 +671,7 @@
 `````{margin} 
 ````{admonition} <a name="No.18"></a><span class="mini-title">No.18</span>
 :class: Caution
-<span class="mini"><span class="u">原告が強く主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>上記の原告の主張について判決文は記載していません。このように抜けているところがありますので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
+<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>続けて、ＥＮＥＯＳ側の主張に対して反論するかたちで主張していました。判決文は、原告が業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) について主張していたことを記載していません。このように抜けているところがあるので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
 ````
 `````
 
