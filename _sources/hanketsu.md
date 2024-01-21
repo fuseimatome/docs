@@ -614,7 +614,7 @@
 `````{margin} 
 ````{admonition} <a name="No.14"></a><span class="mini-title">No.14</span>
 :class: Caution
-<span class="mini"><span class="u">認定事実の⑵のオは、書証のメールファイルからのキリトリを繋げて記載している</span>ものですので、判決文の文面から正確なことを把握するのは困難です。原告が通報窓口担当者に伝えた契約に関する疑問については、事実認定されていません。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
+<span class="mini"><span class="u">認定事実の⑵のオは、書証のメールファイルからのキリトリを繋げて記載している</span>ものですので、判決文の文面から正確なことを把握するのは困難です。原告が通報窓口担当者に契約に関する疑問を伝えていたことは、事実認定されていません。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
