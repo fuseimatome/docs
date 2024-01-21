@@ -668,7 +668,7 @@
 `````{margin} 
 ````{admonition} <a name="No.18"></a><span class="mini-title">No.18</span>
 :class: Caution
-<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>この主張に続けて、ＥＮＥＯＳ側の主張に対して反論するというかたちで主張していました。判決文は、原告が業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) について主張していたことを記載していません。判決文は、このように抜けているところがあり、また、言葉の使い方により微妙に意味合いがズレているところがあるので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
+<span class="mini"><span class="u">原告が、まず、主張していたことは、ＥＮＥＯＳがグループ行動基準 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/company/conduct.html) を定め、業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) の一環として、コンプライアンスホットライン制度を整備していたことです。</span>この主張に続けて、ＥＮＥＯＳ側の主張に対して反論するというかたちで主張していました。原告が業務の適正を確保するための体制 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.hd.eneos.co.jp/esgdb/governance/pdf/03_internal_control.pdf) について主張していたことは、判決文には記載されていません。判決文は、このように抜けているところがあり、また、言葉の使い方により微妙に意味合いがズレているところがあるので、原告の主張に関する判決文の文面は、微妙に読み手を誤導する文面です。</span>
 ````
 `````
 
@@ -711,9 +711,9 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.21-2</span>
 :class: Caution
-<span class="mini">判決文は、「内部通報における調査等は、基本的に、不正行為等を早期に発見、是正して被告等の業務の適正化を図るためのもの」と内部通報制度の意義を示しています。それはそのとおりです。しかしながら、<span class="u">ＥＮＥＯＳ側の対応が内部通報制度として合理的だったかどうかについては、内部通報制度の意義から判断したものではなく、原告の通報の態様が「…にすぎない」ことが判断理由のようです。</span><br>
+<span class="mini">裁判所は、「内部通報における調査等は、基本的に、不正行為等を早期に発見、是正して被告等の業務の適正化を図るためのもの」と内部通報制度の意義を示しています。それはそのとおりです。しかしながら、<span class="u">ＥＮＥＯＳ側の対応が内部通報制度として合理的だったかどうかについては、内部通報制度の意義から判断したものではなく、原告の通報の態様が「…にすぎない」ことが判断理由のようです。</span><br>
 <span class="strong">これも、ヒドイ！</span>
-<span class="mini">と思います。</span>なぜなら、裁判所が合理性を判断する際、判決文で示している内容と矛盾があるからです。</span></span>
+<span class="mini">と思います。</span>なぜなら、裁判所が合理性を判断する際、初めに判決文で示している内容と矛盾があるからです。</span></span>
 ````
 `````
 
