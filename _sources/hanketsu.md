@@ -818,7 +818,7 @@
 `````{margin} 
 ````{admonition} <a name="No.26"></a><span class="mini-title">No.26</span>
 :class: Caution
-<span class="mini"><span class="u">ＥＮＥＯＳ側は、原告分のみの人事評価であるにもかかわらず、この人事評価について「第三者閲覧制限の申立て」[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/tokyo/saiban/minzi_section29_40_46_47/eturannseigenn/index.html#:~:text=%E9%96%B2%E8%A6%A7%E7%AD%89%E5%88%B6%E9%99%90%E3%81%AE%E7%94%B3%E7%AB%8B,%E6%B3%9592%E6%9D%A11%E9%A0%85%EF%BC%89%E3%80%82) を行いました。</span>原告も意見書を提出しています。結果として、第三者閲覧制限は認められました。実際にはもっとヒドイ言葉が人事評価コメントにありましたので、原告は人格否定と受け取っています。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
+<span class="mini"><span class="u">ＥＮＥＯＳ側は、原告分のみの人事評価であるにもかかわらず、この人事評価について「第三者閲覧制限の申立て」[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/tokyo/saiban/minzi_section29_40_46_47/eturannseigenn/index.html#:~:text=%E9%96%B2%E8%A6%A7%E7%AD%89%E5%88%B6%E9%99%90%E3%81%AE%E7%94%B3%E7%AB%8B,%E6%B3%9592%E6%9D%A11%E9%A0%85%EF%BC%89%E3%80%82) を行いました。</span>原告も意見書を提出しています。結果として、第三者閲覧制限は認められました。実際には、もっとヒドイ言葉が人事評価コメント欄に記載されていましたので、原告は人格否定と受け取っています。<span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
@@ -836,7 +836,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.27-2</span>
 :class: Caution
-<span class="mini">請求書を発行していない多数の債権の回収をさせられていました。請求書を発行していないので、原告の前の担当も債権が回収できず、１年以上も債権残高が残っていました。この残っている債権を上司の権限で取り消したうえで、以前については債権が回収できない問題はなかった（だから原告個人の問題である）としました。<span class="u">再び、当時と同様、原告個人の問題とされる事態になることを恐れて通報をしました。</span></span>
+<span class="mini">具体的には、請求書を発行していない多数の債権の回収をさせられていました。請求書を発行していないので、原告の前の担当も債権が回収できず、１年以上も債権残高が残っていました。この残っている債権を上司の権限で取り消したうえで、以前については問題はなかった（だから原告個人の問題である）としました。<span class="u">再び、当時と同様、原告個人の問題とされる事態になることを恐れて通報をしました。</span></span>
 ````
 `````
 
