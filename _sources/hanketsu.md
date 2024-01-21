@@ -124,15 +124,11 @@
 
 <p class="center">東京高裁判決　目次
 
+<p class="small">注記や下線がない判決文は<a href="https://fuseimatome.github.io/docs/quote.html#id1">こちら</a>です。また、No.は原告による注記へのリンクです。 
+
 <p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai1">第１</a>　控訴の趣旨
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断
-<p class="small">
-<p class="small">注記へ<br>
-<a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>, 
-<a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
-<p class="small">
-<p class="small">注記や下線がない判決文へ <a href="https://fuseimatome.github.io/docs/quote.html#id1"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai2">第２</a>　事案の概要, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.1">No.1</a>
+<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#kousai3">第３</a>　当裁判所の判断, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.2">No.2</a>
 
 </div>
 
