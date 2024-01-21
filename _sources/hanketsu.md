@@ -64,7 +64,7 @@
 
 <p class="small">2015年度
 <p class="hg-idt6-1">11月11日　　原告は、豪州企業に対する支払いの際、ＧＳＴ分を上乗せした金額で支払い手続きをしてしまいました。
-<p class="hg-idt6-1">1月8日　　　原告は、上司に、豪州企業に対して支払ってしまったＧＳＴ（以下、「本件ＧＳＴ」といいます）があることを報告しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
+<p class="hg-idt6-1">1月8日　　　原告は、上司に、豪州企業に対して支払っているＧＳＴ（以下、「本件ＧＳＴ」といいます）があることを報告しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">3月31日　　 年度末のため、原告が上司に本件ＧＳＴに関して質問したものの、<strong>上司の回答は、不明瞭な点が多く、原告を誤導する意図を感じました。</strong>
 <p class="padleft6"><span class="ut">本件ＧＳＴに関して上司に質問したあとに、原告は、「平成２８年３月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、ＧＤＰ等の時系列データを Excel アドインの線形回帰分析に投入して生産量を予測するというものです。
 <p class="small">2016年度
