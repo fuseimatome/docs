@@ -64,7 +64,7 @@
 
 <p class="small">2015年度
 <p class="hg-idt6-1">11月11日　　原告は、豪州企業に対する支払いの際、ＧＳＴ分を上乗せした金額で支払い手続きをしてしまいました。
-<p class="hg-idt6-1">1月8日　　　原告は、上司に、豪州企業に対して支払っているＧＳＴ（以下、「本件ＧＳＴ」といいます）があることを報告しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
+<p class="hg-idt6-1">1月8日　　　原告は、上司に、豪州企業に対して支払っているＧＳＴ（以下「本件ＧＳＴ」といいます）があることを報告しました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">3月31日　　 年度末のため、原告が上司に本件ＧＳＴに関して質問したものの、<strong>上司の回答は、不明瞭な点が多く、原告を誤導する意図を感じました。</strong>
 <p class="padleft6"><span class="ut">本件ＧＳＴに関して上司に質問したあとに、原告は、「平成２８年３月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ウ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、ＧＤＰ等の時系列データを Excel アドインの線形回帰分析に投入して生産量を予測するというものです。
 <p class="small">2016年度
@@ -74,7 +74,7 @@
 <p class="hg-idt6-1">2月7日　　　原告が知らないうちに、本件通報１に関して、被通報者と通報窓口担当者が協議を行っていました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ク"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。協議の内容は分かりません。	
 <p class="hg-idt6-1">3月9日　　　本件通報１に係る「ＧＳＴの業務」について移管する旨の通知がされたものの <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-ケ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 、移管したとする「ＧＳＴの業務」は、これまでどのような業務を行っていたのかは未だに不明です。
 <p class="small">2017年度
-<p class="hg-idt6-1">5月11日　　 原告がときおり受信する「ＧＳＴの業務」に関するメールが不明瞭な内容のため、原告が上司に本件ＧＳＴに関して質問したものの、上司の回答は、「ＧＳＴの業務」を移管したという旨の回答でした。
+<p class="hg-idt6-1">5月11日　　 ＣＣで受信する「ＧＳＴの業務」に関するメールが不明瞭な内容のため、原告が上司に本件ＧＳＴに関して質問したものの、上司の回答は、「ＧＳＴの業務」を移管したという旨の回答でした。
 <p class="hg-idt6-1">　 12日　 　 <span class="ut">本件ＧＳＴに関して上司に質問したあとに、原告は、「平成２９年５月業務命令」を命じられました</span> <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-コ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その業務内容は、原油価格等の時系列データを Excel アドインの線形回帰分析に投入して事業に係るコストを予測するというものでした。
 <p class="hg-idt6-1">8月14日　　 通報窓口担当者は、原告に、本件調査報告１をしました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-1-シ"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。
 <p class="hg-idt6-1">10月16日　　通報に対する措置と思われる内容の部長報告がありました <a href="https://fuseimatome.github.io/docs/hanketsu.html#jdg3-1-2-ア"><span class="mini"><i class="fa-solid fa-link"></i></span></a> 。その内容は、「オーストラリアＧＳＴの過年度支払分については、※※※において同年９月までに還付請求を実施し、※※※への還付額については被告への戻入れも実施済みである、具体的処理は、経理部の指示に従って、支払の際は一般管理費で計上し、戻入れの際は雑収入で計上した（伏字以外は判決文原文ママ）」というものです。<strong>部長報告は、還付金の金額を示さないなど不明瞭なところがありました。</strong>
