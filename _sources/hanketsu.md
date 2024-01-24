@@ -449,7 +449,7 @@
 `````{margin} 
 ````{admonition} <a name="No.7"></a><span class="mini-title">No.7</span>
 :class: Caution
-<span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。原告は、上司の言動から原告を誤導する意図を感じていたものの、<span class="u">上司個人の問題とされないようにと考えて、通報窓口担当者に対して、業務プロセスの問題として通報しました。</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
+<span class="mini">同メールの添付ファイルには、事実認定されていない記載があります。原告は、上司の言動から原告を誤導する意図を感じていたものの、<span class="u">上司個人の問題とされないようにと考えて、通報窓口担当者に対して、業務プロセスの問題として通報しました。（通報内容のポイントが「上司個人の問題」とならないように伝えました）</span><span style="color: #f37726;"><i class="fa-solid fa-hand-point-left"></i> 事実認定されていない事実</span></span>
 ````
 `````
 
