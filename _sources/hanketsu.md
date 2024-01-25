@@ -167,16 +167,15 @@
 <p class="hg-idt1">２　前提事実、争点及びこれに関する当事者の主張の要旨は、 控訴理由を踏まえて以下のとおり補正するほか、原判決 「事実及び理由」欄の「第２　事案の概要」 の１及び２のとおりであるから、これを引用する。
 
 
-
-<p class="hg-idt2"><a name="hosei1"></a>⑴　原判決８頁２２行目の 「相応の措置を講ずるべき」 を 「体制として整備された仕組みに基づいて適切に対応すべき」 に改める。
-
-
 `````{margin} 
 ````{admonition} <a name="No.1"></a><span class="mini-title">No.1</span>
 :class: Caution
 <span class="mini">地裁判決のここの部分 [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#hosei5) については、高裁判決で追加されました。ちなみに、保有資格については、原告はJDLA Ｅ資格 2023#1 [<i class="fa-solid fa-up-right-from-square"></i>](https://www.jdla.org/certificate/engineer/) を保有しています。</span>
 ````
 `````
+
+<p class="hg-idt2"><a name="hosei1"></a>⑴　原判決８頁２２行目の 「相応の措置を講ずるべき」 を 「体制として整備された仕組みに基づいて適切に対応すべき」 に改める。
+
 
 
 `````{margin} 
@@ -191,7 +190,7 @@
 `````{margin} 
 ````{admonition} <span class="mini-title">No.1-3</span>
 :class: Caution
-<span class="mini">部長説明をするという名目としては無意味と思われる分析を命じられていました。その翌年度からの原告の担当業務は、「グループ庶務」の７文字だけであり、職能資格もＳＢ２の据え置き状態が続きました。勤続年数30年で職能資格がＳＢ２の社員は原告だけだと思われます。</span>
+<span class="mini">部長説明をするという名目だったとしても無意味と思われる分析を命じられていました。その分析をした翌年度からの原告の担当業務は、「グループ庶務」の７文字だけであり、職能資格もＳＢ２の据え置き状態が続きました。勤続年数30年で職能資格がＳＢ２の社員は原告だけだと思われます。</span>
 ````
 `````
 
