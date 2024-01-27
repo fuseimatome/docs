@@ -32,6 +32,8 @@
 
 判決文はこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) に記載しています。
 
+※ 追記、2024年1月25日、上告不受理となりました。
+
 
 ## <span style="color: #616161;">２ 何があったのか？</span>
 
