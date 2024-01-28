@@ -22,7 +22,7 @@
   margin: 40px 0; /* 上下のマージンを追加 */
 }
 .image-box {
-  max-width: 240pt; /* 画像の幅の最大値 */
+  max-width: 180pt; /* 画像の幅の最大値 */
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); /* より薄い影の設定 */
   border: 1px solid rgba(0, 0, 0, 0.1); /* 枠線の設定 */
   padding: 4px; /* 画像と枠線の間の余白 */
