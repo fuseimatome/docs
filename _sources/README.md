@@ -18,28 +18,28 @@ ghp-import -n -p -f _build/html
 ## Card
 
 ```
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta name="twitter:description" content="現在の法律の下では、通報に対して適切に対応していないことを通報者に分からないように隠すことが容易に行えますので、内部通報制度に関する法律は課題があります。">
-<meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch1.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
+  <meta name="twitter:description" content="現在の法律の下では、通報に対して適切に対応していないことを通報者に分からないように隠すことが容易に行えますので、内部通報制度に関する法律は課題があります。">
+  <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch1.png">
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta property="og:description" content="公益通報者保護法などの規定では、内部通報制度の活動で何をどのように調査するかは事業者の裁量に委ねられています。そして、不正があったか否かの結果を通報者に対して伝える際、その判断過程を伝える必要がありません。現在の法律の下では、通報に対して適切に対応していないことを通報者に分からないように隠すことが容易に行えますので、内部通報制度に関する法律は課題があります。">
-<meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch1.png">
-<meta property="og:url" content="https://fuseimatome.github.io/docs/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
+  <meta property="og:description" content="公益通報者保護法などの規定では、内部通報制度の活動で何をどのように調査するかは事業者の裁量に委ねられています。そして、不正があったか否かの結果を通報者に対して伝える際、その判断過程を伝える必要がありません。現在の法律の下では、通報に対して適切に対応していないことを通報者に分からないように隠すことが容易に行えますので、内部通報制度に関する法律は課題があります。">
+  <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch1.png">
+  <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta name="twitter:description" content="ＥＮＥＯＳの内部通報制度に関して、宮田副社長、椎名副社長、井上副社長へメンションして社内ＳＮＳへポストをしました。">
-<meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
+  <meta name="twitter:description" content="ＥＮＥＯＳ宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月22日）">
+  <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4.png">
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-<meta property="og:description" content="ＥＮＥＯＳの内部通報制度に関して、宮田副社長、椎名副社長、井上副社長へメンションして社内ＳＮＳへポストをしました。">
-<meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4.png">
-<meta property="og:url" content="https://fuseimatome.github.io/docs/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
+  <meta property="og:description" content="ＥＮＥＯＳ宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月22日）">
+  <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4.png">
+  <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 
 ```
 
