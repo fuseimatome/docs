@@ -17,6 +17,17 @@
   margin-top: 16px;
   margin-bottom: 16px;
 }
+.image-box {
+  max-width: 80pt; 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  display: inline-block;
+}
+.image-box img {
+  max-width: 100%;
+  height: auto;
+}
 .small {
   font-size:14px;
 }

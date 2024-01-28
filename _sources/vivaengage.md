@@ -13,7 +13,11 @@
 
 ---
 
-ＥＮＥＯＳ役員に対するメンション
+
+<div class="image-box">
+  <img src="https://fuseimatome.github.io/docs/_static/eyecatch4-1.png" alt="Your Image">
+</div>
+
 
 ````{card}
 
