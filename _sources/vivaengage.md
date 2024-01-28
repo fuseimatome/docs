@@ -14,9 +14,12 @@
 ---
 
 
-<div class="image-box">
-  <img src="https://fuseimatome.github.io/docs/_static/eyecatch4-1.png" alt="Your Image">
+<div class="image-container">
+  <div class="image-box">
+    <img src="https://fuseimatome.github.io/docs/_static/eyecatch4-1.png" alt="Your Image">
+  </div>
 </div>
+
 
 
 ````{card}
