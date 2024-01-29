@@ -32,13 +32,13 @@ ghp-import -n -p -f _build/html
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta name="twitter:description" content="ＥＮＥＯＳ宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月22日）">
-  <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-1.png">
+  <meta name="twitter:description" content="ＥＮＥＯＳの社内ＳＮＳにおいて、宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月29日）">
+  <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-2.png">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta property="og:description" content="ＥＮＥＯＳ宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月22日）">
-  <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-1.png">
+  <meta property="og:description" content="ＥＮＥＯＳの社内ＳＮＳにおいて、宮田副社長、椎名副社長、井上副社長宛へメンションして、内部通報制度に関して回答を求めました。（2024年1月29日）">
+  <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-2.png">
   <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 
 ```
