@@ -1,7 +1,7 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">の内部通報制度に関する訴訟について</span>
+# **ＥＮＥＯＳ**<span style="color: #616161;">の内部通報制度に関する訴訟について</span>
 
 
 
