@@ -368,7 +368,7 @@
 `````{margin} 
 ````{admonition} <a name="No.4"></a><span class="mini-title">No.4</span>
 :class: Caution
-<span class="mini">ＥＮＥＯＳ側の主張（被告の主張）に関する判決文における記載は、判決文全体を見ても、なぜか、<span class="u">「否認又は争う。」の７文字だけ</span>となっています。判決文の記載からは、ＥＮＥＯＳ側が何を主張していたのか分かりにくいですが、ＥＮＥＯＳ側が主張していた内容は、判決文の第３の２「争点１について」以下の記載 [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2) とほぼ同じと考えていただいてよいと思います。</span>
+<span class="mini">ＥＮＥＯＳ側の主張（被告の主張）に関する判決文における記載は、判決文全体を見ても、なぜか、<span class="u">「否認又は争う。」の７文字だけ</span>となっています。判決文の記載からは、ＥＮＥＯＳ側が何を主張していたのか分かりにくいですが、ＥＮＥＯＳ側が主張していた主旨は、判決文の第３の２「争点１について」以下の記載 [<i class="fa-solid fa-link"></i>](https://fuseimatome.github.io/docs/hanketsu.html#tisai3-2) と同様と考えていただいてよいと思います。</span>
 ````
 `````
 
