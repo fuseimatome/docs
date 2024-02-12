@@ -327,6 +327,135 @@ h4 {
   padding-left:6em;
 }
 
+.doc-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+}
+.title-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  margin-top:2em;
+  font-weight:bold;
+  padding-left:1em;
+  text-indent:-1em;
+}
+.foot-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  font-size:12px;
+  padding-left:1em;
+  text-indent:-1em;
+}
+.hg-idt1-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:1em;
+  text-indent:-1em;
+}
+.hg-idt2-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:2em;
+  text-indent:-1em;
+}
+.hg-idt3-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:3em;
+  text-indent:-1em;
+}
+.hg-idt4-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:4em;
+  text-indent:-1em;
+}
+.hg-idt23-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:3em;
+  text-indent:-2em;
+}
+.hg-idt22-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:2em;
+  text-indent:-2em;
+}
+.idt-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  text-indent:1em;
+}
+.idt1-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:1em;
+  text-indent:1em;
+}
+.idt2-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:2em;
+  text-indent:1em;
+}
+.idt3-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:3em;
+  text-indent:1em;
+}
+.idt4-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:4em;
+  text-indent:1em;
+}
+.hg-idtm1-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:1em;
+  text-indent:-1em;
+  margin-top: 0;
+}
+.hg-idtm2-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:2em;
+  text-indent:-1em;
+}
+.hg-idtm3-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:3em;
+  text-indent:-1em;
+}
+.hg-idtm4-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:4em;
+  text-indent:-1em;
+}
+
+
 @media only screen and (max-width: 767px) {
   .base {
     margin-right:0;
