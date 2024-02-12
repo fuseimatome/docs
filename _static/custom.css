@@ -382,13 +382,20 @@ h4 {
   line-height:2;
   font-size:14px;
   padding-left:5em;
-  text-indent:-2em;
+  text-indent:-1em;
 }
 .hg-idt34-2 {
   margin-bottom:0em;
   line-height:2;
   font-size:14px;
   padding-left:4em;
+  text-indent:-2em;
+}
+.hg-idt62-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:6em;
   text-indent:-2em;
 }
 .hg-idt22-2 {
