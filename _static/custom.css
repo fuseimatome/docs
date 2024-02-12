@@ -377,11 +377,18 @@ h4 {
   padding-left:4em;
   text-indent:-1em;
 }
-.hg-idt23-2 {
+.hg-idt5-2 {
   margin-bottom:0em;
   line-height:2;
   font-size:14px;
-  padding-left:3em;
+  padding-left:5em;
+  text-indent:-2em;
+}
+.hg-idt34-2 {
+  margin-bottom:0em;
+  line-height:2;
+  font-size:14px;
+  padding-left:4em;
   text-indent:-2em;
 }
 .hg-idt22-2 {
@@ -425,34 +432,12 @@ h4 {
   padding-left:4em;
   text-indent:1em;
 }
-.hg-idtm1-2 {
+.idt5-2 {
   margin-bottom:0em;
   line-height:2;
   font-size:14px;
-  padding-left:1em;
-  text-indent:-1em;
-  margin-top: 0;
-}
-.hg-idtm2-2 {
-  margin-bottom:0em;
-  line-height:2;
-  font-size:14px;
-  padding-left:2em;
-  text-indent:-1em;
-}
-.hg-idtm3-2 {
-  margin-bottom:0em;
-  line-height:2;
-  font-size:14px;
-  padding-left:3em;
-  text-indent:-1em;
-}
-.hg-idtm4-2 {
-  margin-bottom:0em;
-  line-height:2;
-  font-size:14px;
-  padding-left:4em;
-  text-indent:-1em;
+  padding-left:5em;
+  text-indent:1em;
 }
 
 
