@@ -4,9 +4,9 @@
   --sd-color-secondary: #f37726;
   --sd-color-secondary-highlight: #da864e;
 }
-::-webkit-scrollbar {
-  display: none;
-}
+#::-webkit-scrollbar {
+#  display: none;
+#}
 .base {
   margin-right: 80px;
   margin-left: 80px;
