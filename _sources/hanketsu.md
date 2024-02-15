@@ -346,7 +346,7 @@
 
 <p class="idt2"><span class="u"><sub>No.3 </sub>被告が定めるコンプライアンスホットライン規程</span>（以下「本件規程」という。）には、次の規定がある（乙１）。
 
-<p class="idt2">－社外秘の被告社内規程のため中略－
+<p class="idt2">－中略－
 
 <p class="hg-idt1"><a name="tisai2-2"></a>２　争点及びこれに関する当事者の主張の要旨
 
