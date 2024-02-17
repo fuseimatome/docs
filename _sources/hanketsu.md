@@ -1290,7 +1290,12 @@
 </div>
 
 
-## <span style="color: #616161;">東京地裁判決</span>
+## <span style="color: #616161;">消費者庁の指針の解説（9頁）</span>
+
+
+公益通報者保護法に基づく指針（令和３年内閣府告示第118号）の解説（9頁）
+
+<span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/overview_211013_0001.pdf)</span>
 
 
 <div class="base">
@@ -1302,15 +1307,27 @@
 
 <div class="box" markdown>
 
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai1">第１</a>　請求
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a> 
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
+<p class="doc-2">①　指針本文
+
+<p class="idt1-2">内部公益通報受付窓口において内部公益通報を受け付け、正当な理由がある場合を除いて、必要な調査を実施する。そして、当該調査の結果、通報対象事実に係る法令違反行為が明らかになった場合には、速やかに是正に必要な措置をとる。また、是正に必要な措置をとった後、当該措置が適切に機能しているかを確認し、適切に機能していない場合には、改めて是正に必要な措置をとる。
+
+<p class="doc-2">－中略－
+
+<p class="doc-2">③　指針を遵守するための考え方や具体例
+
+<p class="idt1-2">公益通報者の意向に反して調査を行うことも原則として可能である。公益通報者の意向に反して調査を行う場合においても、調査の前後において、公益通報者とコミュニケーションを十分にとるよう努め、プライバシー等の公益通報者の利益が害されないよう配慮することが求められる。
+
+<p class="idt1-2">調査を実施しない「正当な理由」がある場合の例として、例えば、解決済みの案件に関する情報が寄せられた場合、公益通報者と連絡がとれず事実確認が困難である場合等が考えられる。解決済みの案件か否かについては、解決に関する公益通報者の認識と事業者の認識が一致しないことがあるが、解決しているか否かの判断は可能な限り客観的に行われることが求められる。また、一見、法令違反行為が是正されたように見えても、案件自体が再発する場合や、当該再発事案に関する新たな情報が寄せられる場合もあること等から、解決済みといえるか、寄せられた情報が以前の案件と同一のものといえるかについては慎重に検討する必要がある。
 
 </div>
 
 
-## <span style="color: #616161;">東京地裁判決</span>
+## <span style="color: #616161;">消費者庁の指針の解説（20頁）</span>
+
+
+公益通報者保護法に基づく指針（令和３年内閣府告示第118号）の解説（20頁）
+
+<span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/overview_211013_0001.pdf)</span>
 
 
 <div class="base">
@@ -1322,16 +1339,22 @@
 
 <div class="box" markdown>
 
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai1">第１</a>　請求
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a> 
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
+<p class="doc-2">①　指針本文
+
+<p class="idt1-2">書面により内部公益通報を受けた場合において、当該内部公益通報に係る通報対象事実の中止その他是正に必要な措置をとったときはその旨を、当該内部公益通報に係る通報対象事実がないときはその旨を、適正な業務の遂行及び利害関係人の秘密、信用、名誉、プライバシー等の保護に支障がない範囲において、当該内部公益通報を行った者に対し、速やかに通知する。
+
+<p class="doc-2">②　指針の趣旨
+
+<p class="idt1-2">内部公益通報をした者は、事業者からの情報提供がなければ、内部公益通報について是正に必要な措置がとられたか否かについて知り得ない場合が多いと考えられ、行政機関等に公益通報すべきか、調査の進捗を待つべきかを判断することが困難である。そのため、利害関係人のプライバシーを侵害するおそれがある等<sup>37</sup>、内部公益通報をした者に対してつまびらかに情報を明らかにすることに支障がある場合を除いて、内部公益通報への対応結果を内部公益通報をした者に伝える必要がある。
 
 </div>
 
 
-## <span style="color: #616161;">東京地裁判決</span>
+## <span style="color: #616161;">イビデン事件最高裁判決</span>
 
+最高裁平成３０年２月１５日第一小法廷判決・集民２５８号４３頁（5頁）
+
+<span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/app/files/hanrei_jp/458/087458_hanrei.pdf)</span>
 
 <div class="base">
 
@@ -1342,16 +1365,10 @@
 
 <div class="box" markdown>
 
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai1">第１</a>　請求
-<p class="hg-idtm1-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2">第２</a>　事案の概要
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-1">１</a>　前提事実, <a href="https://fuseimatome.github.io/docs/hanketsu.html#No.3">No.3</a> 
-<p class="hg-idtm2-1"><a href="https://fuseimatome.github.io/docs/hanketsu.html#tisai2-2">２</a>　争点及びこれに関する当事者の主張の要旨
+<p class="hg-idt34-2">(2)ア　もっとも，前記事実関係等によれば，上告人は，本件当時，本件法令遵守体制の一環として，本件グループ会社の事業場内で就労する者から法令等の遵守に関する相談を受ける本件相談窓口制度を設け，上記の者に対し，本件相談窓口制度を周知してその利用を促し，現に本件相談窓口における相談への対応を行っていたものである。その趣旨は，本件グループ会社から成る企業集団の業務の適正の確保等を目的として，本件相談窓口における相談への対応を通じて，本件グループ会社の業務に関して生じる可能性がある法令等に違反する行為（以下「法令等違反行為」という。）を予防し，又は現に生じた法令等違反行為に対処することにあると解される。これらのことに照らすと，本件グループ会社の事業場内で就労した際に，法令等違反行為によって被害を受けた従業員等が，本件相談窓口に対しその旨の相談の申出をすれば，上告人は，相応の対応をするよう努めることが想定されていたものといえ，上記申出の具体的状況いかんによっては，当該申出をした者に対し，当該申出を受け，体制として整備された仕組みの内容，当該申出に係る相談の内容等に応じて適切に対応すべき信義則上の義務を負う場合があると解される。
 
 </div>
 
-
-
-</div>
 
 
 
