@@ -873,9 +873,7 @@
 裁判官　〇〇〇〇〇
 
 
-
 ## <span style="color: #616161;">東京高裁判決</span>
-
 
 <div class="base">
 
@@ -942,9 +940,12 @@
 </div>
 
 ```` 
+</div>
+
 
 ## <span style="color: #616161;">東京地裁判決</span>
 
+<div class="base">
 
 ---
 
@@ -1288,10 +1289,13 @@
 </div>
 
 ```` 
+</div>
+
 
 
 ## <span style="color: #616161;">消費者庁の指針の解説（9頁）</span>
 
+<div class="base">
 
 公益通報者保護法に基づく指針（令和３年内閣府告示第118号）の解説（9頁）
 
@@ -1319,16 +1323,17 @@
 </div>
 
 ```` 
+</div>
 
-## <span style="color: #616161;">消費者庁の指針の解説（20頁）</span>
 
+
+## <span style="color: #616161;"消費者庁の指針の解説（20頁）</span>
+
+<div class="base">
 
 公益通報者保護法に基づく指針（令和３年内閣府告示第118号）の解説（20頁）
 
 <span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/overview_211013_0001.pdf)</span>
-
-
-<div class="base">
 
 ---
 
@@ -1347,17 +1352,18 @@
 
 </div>
 
-
 ```` 
+</div>
+
 
 
 ## <span style="color: #616161;">イビデン事件最高裁判決</span>
 
+<div class="base">
+
 最高裁平成３０年２月１５日第一小法廷判決・集民２５８号４３頁（5頁）
 
 <span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.courts.go.jp/app/files/hanrei_jp/458/087458_hanrei.pdf)</span>
-
-<div class="base">
 
 ---
 
@@ -1368,11 +1374,8 @@
 
 <p class="hg-idt34-2">(2)ア　もっとも，前記事実関係等によれば，上告人は，本件当時，本件法令遵守体制の一環として，本件グループ会社の事業場内で就労する者から法令等の遵守に関する相談を受ける本件相談窓口制度を設け，上記の者に対し，本件相談窓口制度を周知してその利用を促し，現に本件相談窓口における相談への対応を行っていたものである。その趣旨は，本件グループ会社から成る企業集団の業務の適正の確保等を目的として，本件相談窓口における相談への対応を通じて，本件グループ会社の業務に関して生じる可能性がある法令等に違反する行為（以下「法令等違反行為」という。）を予防し，又は現に生じた法令等違反行為に対処することにあると解される。これらのことに照らすと，本件グループ会社の事業場内で就労した際に，法令等違反行為によって被害を受けた従業員等が，本件相談窓口に対しその旨の相談の申出をすれば，上告人は，相応の対応をするよう努めることが想定されていたものといえ，上記申出の具体的状況いかんによっては，当該申出をした者に対し，当該申出を受け，体制として整備された仕組みの内容，当該申出に係る相談の内容等に応じて適切に対応すべき信義則上の義務を負う場合があると解される。
 
+
 </div>
 
 ```` 
 </div>
-
-
-
-
