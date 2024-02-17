@@ -1,7 +1,7 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #616161;">訴状・準備書面・書証</span>
+# <span style="color: #616161;">主張書面</span>
 
 
 <div class="result" markdown>
