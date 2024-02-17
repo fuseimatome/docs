@@ -946,8 +946,6 @@
 ## <span style="color: #616161;">東京地裁判決</span>
 
 
-<div class="base">
-
 ---
 
 
@@ -1289,6 +1287,8 @@
 
 </div>
 
+```` 
+
 
 ## <span style="color: #616161;">消費者庁の指針の解説（9頁）</span>
 
@@ -1296,9 +1296,6 @@
 公益通報者保護法に基づく指針（令和３年内閣府告示第118号）の解説（9頁）
 
 <span class="right"><span style="color: #616161;">引用元へ </span>[<i class="fa-solid fa-up-right-from-square"></i>](https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/overview_211013_0001.pdf)</span>
-
-
-<div class="base">
 
 ---
 
@@ -1321,6 +1318,7 @@
 
 </div>
 
+```` 
 
 ## <span style="color: #616161;">消費者庁の指針の解説（20頁）</span>
 
@@ -1350,6 +1348,9 @@
 </div>
 
 
+```` 
+
+
 ## <span style="color: #616161;">イビデン事件最高裁判決</span>
 
 最高裁平成３０年２月１５日第一小法廷判決・集民２５８号４３頁（5頁）
@@ -1369,6 +1370,8 @@
 
 </div>
 
+```` 
+</div>
 
 
 
