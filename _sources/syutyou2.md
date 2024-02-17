@@ -154,8 +154,8 @@
 
 <p class="doc-2">付属書類
 
-<p class="doc-2">１　訴状副本　　１通
-<p class="doc-2">２　資格証明書　１通
+<p class="doc-2">　１　訴状副本　　１通
+<p class="doc-2">　２　資格証明書　１通
 
 
 
