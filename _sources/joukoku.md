@@ -1,7 +1,7 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #616161;">上告受理申立理由書</span>
+# <span style="color: #616161;">主張書面</span>
 
 <div class="result" markdown>
   <div class="base" markdown>

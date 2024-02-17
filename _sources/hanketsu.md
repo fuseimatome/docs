@@ -1,7 +1,7 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #616161;">東京高裁判決･東京地裁判決</span>
+# <span style="color: #616161;">判決文</span>
 
 
 <div class="base">

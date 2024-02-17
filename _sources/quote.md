@@ -1,7 +1,7 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #616161;">判決・書証・法令</span>
+# <span style="color: #616161;">判決・法令・判例</span>
 
 
 <div class="result" markdown>
@@ -494,22 +494,6 @@
 
 ````
 
-
-
-## <span style="color: #616161;">作成中…</span>
-
----
-
-
-````{card}
-
-<div class="box" markdown>
-
-作成中…。書証からの引用などを考えています。
-
-</div>
-
-```` 
 
   </div>
 </div>
