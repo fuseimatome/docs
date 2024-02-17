@@ -141,7 +141,7 @@
 <p class="center">被告と本件豪州企業との契約の経緯
 
 |<span class="mini">日付|<span class="mini">事実| 
-|---|---|
+|--------|--------|
 |<span class="mini">平成26年<br>4月1日|<span class="mini">契約内容にＧＳＴに関する定めが存在していない契約（以下「契約①」という）の有効開始日。| 
 |<span class="mini">平成27年<br>11月6日|<span class="mini">本件豪州企業に対して本件ＧＳＴを支払う手続きを行った。| 
 |<span class="mini">平成28年<br>3月31日|<span class="mini">契約①の有効終了日| 
