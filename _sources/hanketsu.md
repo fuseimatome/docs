@@ -872,11 +872,12 @@
 裁判官　〇〇〇〇〇
 
 
+<div class="base">
+
+
 ## <span style="color: #616161;">東京高裁判決</span>
 
 ---
-
-<div class="base">
 
 
 ````{card}
