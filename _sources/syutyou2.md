@@ -140,20 +140,20 @@
 
 <p class="center">被告と本件豪州企業との契約の経緯
 
-|<span class="mini">日付|<span class="mini">事実| 
+| <span class="mini">日付 |<span class="mini">事実| 
 |--------|--------|
-|<span class="mini">平成26年<br>4月1日|<span class="mini">契約内容にＧＳＴに関する定めが存在していない契約（以下「契約①」という）の有効開始日。| 
-|<span class="mini">平成27年<br>11月6日|<span class="mini">本件豪州企業に対して本件ＧＳＴを支払う手続きを行った。| 
-|<span class="mini">平成28年<br>3月31日|<span class="mini">契約①の有効終了日| 
-|<span class="mini">4月1日|<span class="mini">契約①が自動延長した契約（以下「契約②」という）の有効開始日| 
-|<span class="mini">9月14日|<span class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。| 
-|<span class="mini">平成29年<br>2月7日|<span class="mini">本件通報情報に関する措置として、調査補助者と被通報者が協議をした。| 
-|<span class="mini">8月14日|<span class="mini">本件調査報告１を行った。| 
-|<span class="mini">10月16日|<span class="mini">本件通報情報に関する措置と思われる内容の部長報告が行われた。| 
-|<span class="mini">平成30年<br>3月31日|<span class="mini">契約②の有効終了日| 
-|<span class="mini">9月13日|<span class="mini">ＧＳＴに関する契約条項を追加する契約を締結した。| 
-|<span class="mini">11月27日|<span class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。| 
-|<span class="mini">令和元年<br>10月25日|<span class="mini">本件調査報告２を行った。|
+| <span class="mini">平成26年4月1日 |<span class="mini">契約内容にＧＳＴに関する定めが存在していない契約（以下「契約①」という）の有効開始日。| 
+| <span class="mini">平成27年11月6日 |<span class="mini">本件豪州企業に対して本件ＧＳＴを支払う手続きを行った。| 
+| <span class="mini">平成28年3月31日 |<span class="mini">契約①の有効終了日| 
+| <span class="mini">4月1日 |<span class="mini">契約①が自動延長した契約（以下「契約②」という）の有効開始日| 
+| <span class="mini">9月14日 |<span class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。| 
+| <span class="mini">平成29年2月7日 |<span class="mini">本件通報情報に関する措置として、調査補助者と被通報者が協議をした。| 
+| <span class="mini">8月14日 |<span class="mini">本件調査報告１を行った。| 
+| <span class="mini">10月16日 |<span class="mini">本件通報情報に関する措置と思われる内容の部長報告が行われた。| 
+| <span class="mini">平成30年3月31日 |<span class="mini">契約②の有効終了日| 
+| <span class="mini">9月13日 |<span class="mini">ＧＳＴに関する契約条項を追加する契約を締結した。| 
+| <span class="mini">11月27日|<span class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。| 
+| <span class="mini">令和元年10月25日 |<span class="mini">本件調査報告２を行った。|
 
 <p class="idt3-2">すなわち、被告は、本件通報を受けたことにより、本件規程３．６⑴イに定める「是正措置および再発防止策」又は同ウに定める「対応策」を行っていたにもかかわらず、本件各調査報告において、原告に対し、本件規程３．６⑴イ又は同ウに定める事項を通知していなかったということになる。
 <p class="idt3-2">よって、被告は、本件規程３．６⑴イ又は同ウに違反している。
