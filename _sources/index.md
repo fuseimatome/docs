@@ -13,8 +13,8 @@
 <div class="box" markdown>
 
 
-本サイトの公開前に、ＥＮＥＯＳの代理人を通じて、社長代行を務めている宮田知秀副社長と以下のリンク先の内容について共有しています。
- - 本サイト [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://fuseimatome.github.io/docs)
+本ウェブサイトの公開前に、ＥＮＥＯＳの代理人を通じて、社長代行を務めている宮田知秀副社長と以下のリンク先の内容について共有しています。
+ - 本ウェブサイト [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://fuseimatome.github.io/docs)
  - GitHubアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/docs/issues)
  - Twitterアカウント [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://twitter.com/fuseimatome)
 
@@ -229,20 +229,20 @@
 
 
 
-## <span style="color: #616161;">６ 本サイトの内容について</span>
+## <span style="color: #616161;">６ 本ウェブサイトの内容について</span>
 
 ---
 
 ここまで、訴訟に至るまでの経緯と裁判所の判断について説明してまいりました。上記で引用している判決文のとおり、判決文は解釈に苦慮する文脈です。ですので、私の解釈が間違っている可能性はあります。
 
-本サイトはこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) に判決文を記載していますので、私が示している内容に疑問がある人は判決文をご覧いただきまして、私の解釈に誤りがありましたら、GitHub issues や Twitter でご指摘いただけますと幸いです。
+本ウェブサイトはこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/hanketsu.html#id3) に判決文を記載していますので、私が示している内容に疑問がある人は判決文をご覧いただきまして、私の解釈に誤りがありましたら、GitHub issues や Twitter でご指摘いただけますと幸いです。
 
 <i class="fa-brands fa-github"></i> GitHub issues [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://github.com/fuseimatome/docs/issues)
 
 <i class="fa-brands fa-twitter"></i> Twitter [<span class="mini"><i class="fa-solid fa-up-right-from-square"></i></span>](https://twitter.com/fuseimatome)
 
 
-本サイトは、[![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org) で作成しています。
+本ウェブサイトは、[![Jupyter Book Badge](https://jupyterbook.org/_images/badge.svg)](https://jupyterbook.org) で作成しています。
 
   </div>
 </div>
