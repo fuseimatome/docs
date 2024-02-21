@@ -9,9 +9,10 @@
 
 
 
-## <span style="color: #616161;">訴状（仮）</span>
+## <span style="color: #616161;">訴状</span>
 
 ---
+
 
 
 ````{card}

@@ -1,11 +1,71 @@
 <p class="top">上部はダークモードスイッチ等のメニューです
 <p class="top">ダークモードのほうが目が疲れないと思います
 
-# <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">の社内ＳＮＳにおける<br>社長代行らに対するメンション</span>
+# <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">内容証明郵便と社内ＳＮＳ</span>
 
 
 <div class="result" markdown>
   <div class="base" markdown>
+
+
+
+## <span style="color: #616161;">2月20日郵送の内容証明</span>
+
+---
+
+<div class="image-container">
+  <div class="image-box">
+    <img src="https://fuseimatome.github.io/docs/_static/eyecatch4.png" alt="Your Image">
+  </div>
+</div>
+
+````{card}
+
+<div class="box" markdown>
+
+<p class="small">
+
+
+<p class="doc-2">東京都千代田区大手町１－１－２ 
+
+<p class="doc-2">ＥＮＥＯＳ株式会社 
+
+<p class="doc-2">代表取締役副社長執行役員 〇〇〇〇 様<br><br>
+ 
+
+<p class="doc-2">東京都千代田区大手町１－１－２ 
+
+<p class="doc-2">ＥＮＥＯＳ株式会社 
+
+<p class="doc-2">〇〇〇〇〇〇〇部 
+
+<p class="doc-2">〇〇〇〇〇〇〇〇グループ
+
+<p class="doc-2">〇〇〇〇<br><br> 
+
+
+<p class="idt1-2">私は、〇〇〇〇〇〇〇部〇〇〇〇〇〇〇〇グループの〇〇〇〇と申します。内容証明郵便という形式でお伝えするご無礼をお許しください。 
+
+<p class="hg-idt2-2">１　私は、２月１９日、東京簡易裁判所に、ＥＮＥＯＳを被告とする内部通報制度に関する訴訟を提起しました。裁判所より訴状が郵送される予定ですので、お目通しくださいますようお願い申し上げます。なお、訴状の本文は、私が開設したウェブサイトに掲載しています。上記ウェブサイトについては、ＥＮＥＯＳの代理人である〇〇〇〇様にお伝えしておりますので、ＵＲＬが分からない場合は、直接私にご連絡いただくか、または、〇〇様にご照会ください。また、受領印押印済み訴状控えを用意しておりますので、お申し付けいただければお渡しいたします。 
+
+<p class="hg-idt2-2">２　…（以下、後日、掲載します。なお、2月21日現在、内容証明郵便を受け取っていただけなかったもようです。）
+
+
+
+</div>
+
+```` 
+
+
+
+## <span style="color: #616161;">ＥＮＥＯＳ代理人とのメール</span>
+
+---
+
+
+※　このまま、ＥＮＥＯＳ代理人から無視されるようであれば、メールの内容を掲載するかもしれません。
+
+
 
 
 ## <span style="color: #616161;">2024年2月6日までのポストについて</span>
