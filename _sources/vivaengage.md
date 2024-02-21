@@ -9,7 +9,7 @@
 
 
 
-## <span style="color: #616161;">2月20日郵送の内容証明</span>
+## <span style="color: #616161;">内容証明郵便</span>
 
 ---
 
