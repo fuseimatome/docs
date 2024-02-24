@@ -151,7 +151,7 @@
 | <p class="mini">　　　　8月14日 | <p class="mini">本件調査報告１を行った。 |
 | <p class="mini">平成30年4月1日 | <p class="mini">本件契約の前に契約した契約が自動延長。 |
 | <p class="mini">　　　　9月13日 | <p class="mini">被告がＧＳＴに関する契約内容を記載した本件契約を締結した。 |
-| <p class="mini>　　　　11月27日 | <p class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
+| <p class="mini">　　　　11月27日 | <p class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
 | <p class="mini">令和元年10月25日 | <p class="mini">本件調査報告２を行った。 |
 
 
