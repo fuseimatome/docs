@@ -40,6 +40,13 @@
   font-size:12px;
   font-weight:normal;
 }
+.mini-t {
+  font-size:12px;
+  font-weight:normal;
+  margin-bottom:0;
+  margin-top:0;
+  line-height:1.2;
+}
 .mini-title {
   font-size:12px;
   font-weight:bold;

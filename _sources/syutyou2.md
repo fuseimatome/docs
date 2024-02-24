@@ -142,17 +142,17 @@
 
 | 　　                | 　　                                                                                                  |
 |----------------------|-------------------------------------------------------------------------------------------------------|
-| <p class="mini" style="white-space: nowrap;">平成26年4月1日 | <p class="mini">契約内容にＧＳＴに関する定めが存在していない契約（以下「本件契約の前に契約した契約」という。）の有効開始日。 |
-| <p class="mini">平成27年11月6日 | <p class="mini">原告が本件豪州企業に対して本件ＧＳＴを支払う手続きを行った。（本件通報情報） |
-| <p class="mini">平成28年4月1日 | <p class="mini">本件契約の前に契約した契約が自動延長。 |
-| <p class="mini" style="white-space: nowrap;">9月14日 | <p class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
-| <p class="mini">平成29年2月7日 | <p class="mini">調査補助者が被通報者と協議を行った。 |
-| <p class="mini" style="white-space: nowrap;">4月まで | <p class="mini">この時点まで本件豪州企業が被告に対してＧＳＴを請求していた。 |
-| <p class="mini" style="white-space: nowrap;">8月14日 | <p class="mini">本件調査報告１を行った。 |
-| <p class="mini">平成30年4月1日 | <p class="mini">本件契約の前に契約した契約が自動延長。 |
-| <p class="mini" style="white-space: nowrap;">9月13日 | <p class="mini">被告がＧＳＴに関する契約内容を記載した本件契約を締結した。 |
-| <p class="mini" style="white-space: nowrap;">11月27日 | <p class="mini">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
-| <p class="mini">令和元年10月25日 | <p class="mini">本件調査報告２を行った。 |
+| <p class="mini-t" style="white-space: nowrap;">平成26年4月1日 | <p class="mini-t">契約内容にＧＳＴに関する定めが存在していない契約（以下「本件契約の前に契約した契約」という。）の有効開始日。 |
+| <p class="mini-t">平成27年11月6日 | <p class="mini-t">原告が本件豪州企業に対して本件ＧＳＴを支払う手続きを行った。（本件通報情報） |
+| <p class="mini-t">平成28年4月1日 | <p class="mini-t">本件契約の前に契約した契約が自動延長。 |
+| <p class="mini-t" style="white-space: nowrap;">9月14日 | <p class="mini-t">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
+| <p class="mini-t">平成29年2月7日 | <p class="mini-t">調査補助者が被通報者と協議を行った。 |
+| <p class="mini-t" style="white-space: nowrap;">4月まで | <p class="mini-t">この時点まで本件豪州企業が被告に対してＧＳＴを請求していた。 |
+| <p class="mini-t" style="white-space: nowrap;">8月14日 | <p class="mini-t">本件調査報告１を行った。 |
+| <p class="mini-t">平成30年4月1日 | <p class="mini-t">本件契約の前に契約した契約が自動延長。 |
+| <p class="mini-t" style="white-space: nowrap;">9月13日 | <p class="mini-t">被告がＧＳＴに関する契約内容を記載した本件契約を締結した。 |
+| <p class="mini-t" style="white-space: nowrap;">11月27日 | <p class="mini-t">原告が本件規程に定めるメールアドレスに対して本件通報をした。 |
+| <p class="mini-t" style="white-space: nowrap;">令和元年10月25日 | <p class="mini-t">本件調査報告２を行った。 |
 
 <p class="hg-idt4-2">エ　上記ウで述べた被告が本件契約を締結した事実、及び本件豪州企業が被告に対してＧＳＴを請求していたのは平成２９年４月までであった事実により、本件豪州企業に対するＧＳＴの支払いが契約に基づいていないこと、又は契約に基づいていないおそれがあることを、被告が本件通報を受けたことにより把握したから、是正措置、再発防止策又は対応策を実行したことが明らかである。
 <p class="idt4-2">これにもかかわらず、被告は、本件各調査報告又は本件契約を締結した前後において、原告に対し、本件契約を締結した事実及び被告が本件豪州企業からＧＳＴを請求されないために実行した是正措置、再発防止策又は対応策を本件規程３．６⑴イ又は同ウに定める事項として通知していなかった。
