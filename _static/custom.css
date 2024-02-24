@@ -17,6 +17,9 @@
   margin-top: 16px;
   margin-bottom: 16px;
 }
+.box-3 {
+  margin-left: 3em;
+}
 .image-container {
   text-align: center; /* 子要素を水平方向に中央揃え */
   margin: 40px 0; /* 上下のマージンを追加 */
