@@ -75,7 +75,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 
 
-## <span style="color: #616161;">内容証明郵便（10142402443）</span>
+## <span style="color: #616161;">内容証明郵便 [<i class="fa-solid fa-up-right-from-square"></i>](https://trackings.post.japanpost.jp/services/srv/search/input) </span>
 
 ---
 
@@ -86,7 +86,6 @@ https://fuseimatome.github.io/docs/syutyou2.html
 </div>
 
 内容証明郵便追跡番号（10142402443）<br>
-郵便追跡サービス [<i class="fa-solid fa-up-right-from-square"></i>](https://trackings.post.japanpost.jp/services/srv/search/input) 
 
 ````{card}
 
