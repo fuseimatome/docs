@@ -86,7 +86,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 </div>
 
 内容証明郵便追跡番号（10142402443）<br>
-郵便追跡サービス [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://trackings.post.japanpost.jp/services/srv/search/input) 
+郵便追跡サービス [<i class="fa-solid fa-up-right-from-square"></i>](https://trackings.post.japanpost.jp/services/srv/search/input) 
 
 ````{card}
 
