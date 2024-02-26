@@ -32,8 +32,7 @@
 
 <p class="small">なお、内容証明郵便及び訴状の内容は、私が開設した以下のウェブサイトに掲載していますので、ご確認いただきたくお願いいたします。
 
-https://fuseimatome.github.io/docs/vivaengage.html
-
+https://fuseimatome.github.io/docs/vivaengage.html<br>
 https://fuseimatome.github.io/docs/syutyou2.html
 
 </div>
@@ -68,7 +67,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 <p class="small">宜しくお願いいたします。
  
 <p class="small">〇〇〇〇〇法律事務所・〇〇〇〇〇〇〇<br>
-<p class="small">弁護士 〇〇 〇〇
+弁護士 〇〇 〇〇
 
 </div>
 
