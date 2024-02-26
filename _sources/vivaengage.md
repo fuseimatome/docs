@@ -8,7 +8,7 @@
   <div class="base" markdown>
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人弁護士宛への<span style="color: #f37726;">メール</span>
+## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
 
 ---
 
@@ -42,7 +42,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人弁護士のメール</span>
+## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
 
 ---
 
@@ -126,7 +126,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 ```` 
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人弁護士宛への<span style="color: #f37726;">メール</span>
+## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
 
 ---
 
@@ -159,7 +159,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人弁護士のメール</span>
+## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
 
 ---
 
@@ -194,7 +194,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人弁護士宛への<span style="color: #f37726;">メール</span>
+## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
 
 ---
 
@@ -247,7 +247,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人弁護士のメール</span>
+## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
 
 ---
 
