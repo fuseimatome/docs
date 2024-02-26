@@ -75,7 +75,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 
 
-## <span style="color: #616161;">内容証明郵便 [<i class="fa-solid fa-up-right-from-square"></i>](https://trackings.post.japanpost.jp/services/srv/search/input) </span>
+## <span style="color: #616161;">社長代行宛への内容証明郵便</span>
 
 ---
 
