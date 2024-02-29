@@ -8,11 +8,9 @@
   <div class="base" markdown>
 
 
-
 ## <span style="color: #616161;">訴状</span>
 
 ---
-
 
 
 ````{card}

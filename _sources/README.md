@@ -32,24 +32,24 @@ ghp-import -n -p -f _build/html
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta name="twitter:description" content="ＥＮＥＯＳの社長代行の宮田副社長宛、訴訟提起をお知らせする内容証明を郵送しました。2月26日時点では、郵便局に保管となっています。">
+  <meta name="twitter:description" content="ＥＮＥＯＳ社長代行の宮田副社長宛、訴訟提起をお知らせする内容証明を郵送しました。2月29日時点では、郵便局に保管となっています。">
   <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-08.png">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta property="og:description" content="ＥＮＥＯＳの社長代行の宮田副社長宛、訴訟提起をお知らせする内容証明を郵送しました。2月26日時点では、郵便局に保管となっています。">
+  <meta property="og:description" content="ＥＮＥＯＳ社長代行の宮田副社長宛、訴訟提起をお知らせする内容証明を郵送しました。2月29日時点では、郵便局に保管となっています。">
   <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch4-08.png">
   <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta name="twitter:description" content="ＥＮＥＯＳを被告とする訴訟を提起しました。通報により契約条項を追加する措置を行っていたにもかかわらず、通報者には「契約書を確認する行為は意味がない行為」と伝えていました。本件訴訟は、ＥＮＥＯＳがコンプライアンスホットライン規程に違反したと主張している訴訟です。">
+  <meta name="twitter:description" content="ＥＮＥＯＳを被告とする訴訟を提起しました。通報により契約条項を追加する措置を行っていたにもかかわらず、通報者には「契約書を確認する行為は意味がない行為」と説明していました。本件訴訟は、ＥＮＥＯＳがコンプライアンスホットライン規程に違反したと主張している訴訟です。">
   <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch5.png">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta property="og:description" content="ＥＮＥＯＳを被告とする訴訟を提起しました。通報により契約条項を追加する措置を行っていたにもかかわらず、通報者には「契約書を確認する行為は意味がない行為」と伝えていました。本件訴訟は、ＥＮＥＯＳがコンプライアンスホットライン規程に違反したと主張している訴訟です。">
+  <meta property="og:description" content="ＥＮＥＯＳを被告とする訴訟を提起しました。通報により契約条項を追加する措置を行っていたにもかかわらず、通報者には「契約書を確認する行為は意味がない行為」と説明していました。本件訴訟は、ＥＮＥＯＳがコンプライアンスホットライン規程に違反したと主張している訴訟です。">
   <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch5.png">
   <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 

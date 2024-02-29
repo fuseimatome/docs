@@ -23,10 +23,8 @@
 
 <div class="box" markdown>
 
-​
 <p class="small">〇〇〇〇〇法律事務所<br>
 〇〇〇〇 様
-
 
 <p class="small">ご連絡いただきました件について、今回は、既に内容証明郵便で郵送してしまいましたが、次回からは、必要に応じて〇〇様にご質問いたします。
 
@@ -34,11 +32,9 @@
 
 https://fuseimatome.github.io/docs/vivaengage.html<br>
 https://fuseimatome.github.io/docs/syutyou2.html
-
 </div>
 
 ```` 
-
 
 
 ## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
@@ -78,6 +74,8 @@ https://fuseimatome.github.io/docs/syutyou2.html
 ## <span style="color: #616161;">社長代行宛への内容証明郵便</span>
 
 ---
+
+ＥＮＥＯＳ社長代行の宮田副社長宛に訴訟提起をお知らせする内容証明を郵送しました。訴状の内容はこちらです [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/syutyou2.html#id1) 。
 
 <div class="image-container">
   <div class="image-box">
@@ -123,9 +121,24 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 ```` 
 
+内容証明郵便追跡番号（***********）<br>
+
+
 ````{card}
 
 <div class="box" markdown>
+
+<p class="doc-2">〇〇〇〇 様<br><br>
+
+<p class="doc-2">東京都千代田区大手町１－１－２ 
+
+<p class="doc-2">ＥＮＥＯＳ株式会社 
+
+<p class="doc-2">〇〇〇〇〇〇〇部 
+
+<p class="doc-2">〇〇〇〇〇〇〇〇グループ
+
+<p class="doc-2">〇〇〇〇<br><br> 
 
 <p class="small">　私は、〇〇〇〇〇〇〇部〇〇〇〇〇〇〇〇グループの〇〇〇〇と申します。ご自宅宛に郵送するご無礼をどうかお許しください。本社宛にも内容証明郵便を郵送しておりますが、お受け取りいただくまでに時間を要することも考えられましたので、大変恐縮ではございますが、ご自宅宛に郵送いたしました。
 
