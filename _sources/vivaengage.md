@@ -75,7 +75,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 ---
 
-ＥＮＥＯＳ社長代行の宮田副社長宛に訴訟提起をお知らせする内容証明を郵送しました。訴状の内容はこちらです [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/syutyou2.html#id1) 。
+ＥＮＥＯＳ社長代行の宮田副社長宛に訴訟提起をお知らせする内容証明を郵送しました。訴状の内容はこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/syutyou2.html#id1) に記載しています。
 
 <div class="image-container">
   <div class="image-box">
@@ -83,7 +83,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
   </div>
 </div>
 
-内容証明郵便追跡番号（10142402443）<br>
+内容証明郵便追跡番号（10142402443）
 
 ````{card}
 
@@ -121,7 +121,8 @@ https://fuseimatome.github.io/docs/syutyou2.html
 
 ```` 
 
-内容証明郵便追跡番号（***********）<br>
+<br><br>
+内容証明郵便追跡番号（***********）
 
 
 ````{card}
