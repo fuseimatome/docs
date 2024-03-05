@@ -37,7 +37,7 @@
 
 
 
-※ 訴状の内容はこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/syutyou2.html#id1) に記載しています。
+※ 訴状の内容はこちら [<span class="mini"><i class="fa-solid fa-link"></i></span>](https://fuseimatome.github.io/docs/syutyou2.html#id2) に記載しています。
 
 
 
