@@ -125,11 +125,12 @@ h4 {
   border-bottom: 1px solid #f37726;
 }
 .strong {
-  color:#f37726;
+  color:#FF0000;
   text-align:center;
   display:block;
   font-size:12px;
   margin-bottom:0;
+  font-weight:bold;
 }
 .doc {
   margin-right: 120px;

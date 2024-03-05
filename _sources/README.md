@@ -32,12 +32,12 @@ ghp-import -n -p -f _build/html
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta name="twitter:description" content="ＥＮＥＯＳ代理人とのメールのやり取りを掲載しています。代理人からの回答がなければ、再び内容証明郵便を郵送する必要があるかもしれません。">
+  <meta name="twitter:description" content="ＥＮＥＯＳ代理人とのメールのやり取りを掲載しています。訴訟に関しては、ＥＮＥＯＳ代理人宛にメールを送付するように伝えられているものの、無視されるので困っています。無視が続くことで自殺しかないのではと考えてしまうのは、ごく普通の思考だと思います。">
   <meta name="twitter:image" content="https://fuseimatome.github.io/docs/_static/eyecatch5.png">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="ＥＮＥＯＳの内部通報制度に関する訴訟について">
-  <meta property="og:description" content="ＥＮＥＯＳ代理人とのメールのやり取りを掲載しています。代理人からの回答がなければ、再び内容証明郵便を郵送する必要があるかもしれません。">
+  <meta property="og:description" content="ＥＮＥＯＳ代理人とのメールのやり取りを掲載しています。訴訟に関しては、ＥＮＥＯＳ代理人宛にメールを送付するように伝えられているものの、無視されるので困っています。無視が続くことで自殺しかないのではと考えてしまうのは、ごく普通の思考だと思います。">
   <meta property="og:image" content="https://fuseimatome.github.io/docs/_static/eyecatch5.png">
   <meta property="og:url" content="https://fuseimatome.github.io/docs/">
 

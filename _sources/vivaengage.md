@@ -7,7 +7,7 @@
 <div class="result" markdown>
   <div class="base" markdown>
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
+## <span style="color: #616161;">2024年3月4日</span>
 
 ---
 
@@ -45,7 +45,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 ```` 
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
+## <span style="color: #616161;">2024年2月23日</span>
 
 ---
 
@@ -74,7 +74,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 ```` 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
+## <span style="color: #616161;">2024年2月22日</span>
 
 ---
 
@@ -107,8 +107,8 @@ https://fuseimatome.github.io/docs/syutyou2.html
 ```` 
 
 
-
-## <span style="color: #616161;">社長代行宛への内容証明郵便</span>
+　
+## <span style="color: #616161;">2024年2月20日</span>
 
 ---
 
@@ -192,7 +192,7 @@ https://fuseimatome.github.io/docs/syutyou2.html
 ```` 
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
+<span style="color: #616161;">2024年2月14日</span>
 
 ---
 
@@ -225,7 +225,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
+<span style="color: #616161;">2024年2月13日</span>
 
 ---
 
@@ -260,7 +260,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-## <span style="color: #616161;">ＥＮＥＯＳ代理人宛への<span style="color: #f37726;">メール</span>
+<span style="color: #616161;">2024年2月9日</span>
 
 ---
 
@@ -313,7 +313,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 
 
 
-## <span style="color: #f37726;">ＥＮＥＯＳ</span><span style="color: #616161;">代理人のメール</span>
+## <span style="color: #616161;">2024年2月8日</span>
 
 ---
 
@@ -362,7 +362,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 
 
 
-## <span style="color: #616161;">2024年2月6日までの</span><span style="color: #f37726;">ポスト</span><span style="color: #616161;">について</span>
+## <span style="color: #616161;">2024年2月6日</span>
 
 ---
 
@@ -371,7 +371,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 <p class="small">ＥＮＥＯＳは、私が投稿した内部通報制度に関するポストを削除して、私に対して社内ＳＮＳにアクセスできないようにすることで、<strong>私を社内ＳＮＳから排除しました。</strong>
 
 
-## <span style="color: #616161;">2024年2月6日の</span><span style="color: #f37726;">ポスト</span>
+## <span style="color: #616161;">2024年2月6日</span>
 
 ---
 
@@ -414,7 +414,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 
 ```` 
 
-## <span style="color: #616161;">2024年1月29日の</span><span style="color: #f37726;">ポスト</span>
+## <span style="color: #616161;">2024年1月29日</span>
 
 ---
 
@@ -468,7 +468,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-## <span style="color: #616161;">2024年1月22日の</span><span style="color: #f37726;">ポスト</span>
+## <span style="color: #616161;">2024年1月22日</span>
 
 ---
 
