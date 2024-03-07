@@ -225,7 +225,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-<span style="color: #616161;">2024年2月13日</span>
+## <span style="color: #616161;">2024年2月13日</span>
 
 ---
 
@@ -260,7 +260,7 @@ https://fuseimatome.github.io/docs/vivaengage.html
 ```` 
 
 
-<span style="color: #616161;">2024年2月9日</span>
+## <span style="color: #616161;">2024年2月9日</span>
 
 ---
 
@@ -369,6 +369,7 @@ https://fuseimatome.github.io/docs/vivaengage.html#
 <p class="small">2024年1月22日、1月29日、2月6日、ＥＮＥＯＳの社長代行ら３副社長にメンションするかたちで、内部通報制度に関する内容を社内ＳＮＳにポストしておりました。
 
 <p class="small">ＥＮＥＯＳは、私が投稿した内部通報制度に関するポストを削除して、私に対して社内ＳＮＳにアクセスできないようにすることで、<strong>私を社内ＳＮＳから排除しました。</strong>
+
 
 
 ## <span style="color: #616161;">2024年2月6日</span>
