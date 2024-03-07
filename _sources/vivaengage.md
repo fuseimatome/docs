@@ -7,6 +7,34 @@
 <div class="result" markdown>
   <div class="base" markdown>
 
+## <span style="color: #616161;">2024年3月6日</span>
+
+---
+
+<div class="image-container">
+  <div class="image-box">
+    <img src="https://fuseimatome.github.io/docs/_static/eyecatch4-12.png" alt="Your Image">
+  </div>
+</div>
+
+
+````{card}
+
+<div class="box" markdown>
+
+<p class="small">〇〇〇〇〇法律事務所<br>
+〇〇〇〇 様
+
+<p class="small">先日、２月１４日に私から〇〇様へ質問事項をメールでお伝えした後、〇〇様よりご返信をいただけなかったため、宮田副社長宛に内容証明郵便を送付しました。おそらく、内容証明郵便の送付がきっかけとなって、〇〇様から連絡があり、「訴訟に関連する事項については、当職宛にメールにて御連絡を頂戴したいと存じます」とのことでしたので、先日４日にメールで訴訟に関するお願い事項を送信しましたが、未だに〇〇様よりご返信をいただけていません。
+
+<p class="small">このような状況ですので、再度、宮田副社長宛に内容証明郵便を送付する必要があります。私には全く脅迫的な意図がなくその概念もありませんでしたが、最近、人によっては、訴訟提起や内容証明郵便を脅しと解釈することがあるということを知りました。宮田副社長を驚かさないためにも、〇〇様からも私が内容証明郵便を送付する旨をお伝えいただきたくお願いいたします。
+
+<p class="small">〇〇〇〇
+
+</div>
+
+```` 
+
 ## <span style="color: #616161;">2024年3月4日</span>
 
 ---
@@ -37,7 +65,7 @@
 https://fuseimatome.github.io/docs/syutyou2.html#
 https://fuseimatome.github.io/docs/vivaengage.html#
 
-それでは、よろしくお願いいたします。<br>
+<p class="small">それでは、よろしくお願いいたします。<br>
 〇〇〇〇
 
 </div>
