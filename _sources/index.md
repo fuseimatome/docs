@@ -10,19 +10,19 @@
 本件訴訟はＥＮＥＯＳの内部通報に対する不適切な対応について疑問を呈している訴訟です。ＥＮＥＯＳの対応は、経費支払いに関する内部通報に対して、「契約書を確認する行為は意味がない行為（書証原文ママ）」と説明して、契約内容を確認しないというものでした。
 
 <p class="base" style="margin-bottom: 1.6em;">
-内部通報を受けたことにより、ＥＮＥＯＳの豪州子会社が本社に送金しました。この送金ついて、会計帳簿をＥＮＥＯＳは未だに確認していません。このままいくと、会計帳簿を確認しないままに会計帳簿が破棄される可能性があります。
+内部通報を受けたことにより、ＥＮＥＯＳの豪州子会社が本社に送金しました。この送金ついて、ＥＮＥＯＳは、未だに会計帳簿を確認していません。このままいくと、会計帳簿を確認しないままに会計帳簿が破棄される可能性があります。
 
 <p class="base" style="margin-bottom: 1.6em;">
 ＥＮＥＯＳの代理人に対し、<span class="strong_or">本ウェブサイトの内容について、ＥＮＥＯＳの社長代行を務めている宮田知秀副社長と共有することを求めています。</span>加えて、随時、記載に誤りがあるかどうかを確認しています。ＥＮＥＯＳの代理人からは、その回答として、必要に応じて必要な事項を伝えるとの回答 <a href="https://fuseimatome.github.io/docs/vivaengage.html"><i class="fa-solid fa-link"></i></a> となっています。
 
 <div class="base">
 
-````{card} <span class="title_q"><a href="https://twitter.com/fuseimatome">本件訴訟の原告の X-Twitter アカウントのリンク</a></span>
+````{card} 
 :link: https://twitter.com/fuseimatome
 
 <div class="linkcard">
     <img class="linkcard_img" src="https://fuseimatome.github.io/docs/_static/eyecatch1.png">
-    <p class="linkcard_text">ＥＮＥＯＳの従業員です。後になってから実務担当者の原告が叱責される恐れがあったため内部通報しました。その対応は契約内容や会計帳簿を確認しないという対応でした…</p>
+    <p class="linkcard_text"><a href="https://twitter.com/fuseimatome">本件訴訟の原告の X-Twitter アカウントのリンク</a><br>ＥＮＥＯＳの従業員です。後になってから実務担当者の原告が叱責される恐れがあったため内部通報しました。その対応は契約内容や会計帳簿を確認しないという対応でした…</p>
 </div>
 
 ````
