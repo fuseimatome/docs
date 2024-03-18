@@ -2,18 +2,8 @@
 
 # 主張書面
 
-## １　訴訟について
----
-<p class="base" style="margin-bottom: 1.6em;">
-2024年に提起した訴訟は、勤務先の内部通報制度を利用した通報者（以下「原告」といいます）が、通報を受けたＥＮＥＯＳの対応につき、<span class="strong_or">コンプライアンスホットライン規程に違反したと主張している訴訟</span>です。
-<p class="base" style="margin-bottom: 1.6em;">
-ＥＮＥＯＳは、通報を受けて契約条項を追加する措置を行っていたにもかかわらず、通報者に対しては、不正行為等に当たらないという調査結果を通知したうえで、<span class="u_or">「契約書を確認する行為は意味がない行為」と説明</span>して、「契約書の確認を行わなかったとしても対応を怠ったことにならない」と返答していました <a href="https://fuseimatome.github.io/docs/syutyou2.html#kaitou"><i class="fa-solid fa-link"></i></a>。
-<p class="base" style="margin-bottom: 1.6em;">
-このＥＮＥＯＳの行為は、法令等に違反するおそれのある事実が確認された場合は、その対応策を通報者に通知することを規定しているコンプライアンスホットライン規程に違反します。
-<p class="base" style="margin-bottom: 1.6em;">
 
-
-## ２　訴状
+## １　訴状
 ---
 <p class="base" style="margin-bottom: 1.6em;">
 <strong>2024年2月19日、東京簡易裁判所に、ＥＮＥＯＳを被告とする内部通報制度に関する訴訟を提起しました。以下の quote 枠内に訴状の内容を記載しています。</strong>
