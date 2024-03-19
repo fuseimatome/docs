@@ -15,7 +15,7 @@
 
 <div class="twitter">
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ＥＮＥＯＳの従業員です。「内部通報制度における信義則上の義務違反」で争っている原告です…<a href="https://t.co/UQDAGUnj7z">https://t.co/UQDAGUnj7z</a></p>&mdash; Tomo@内部通報制度に関する訴訟を提起しました (@fuseimatome) <a href="https://twitter.com/fuseimatome/status/1746886538527719763?ref_src=twsrc%5Etfw">January 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本アカウントおよび以下のウェブサイトについて、ＥＮＥＯＳ側に対して、宮田社長代理と共有することを求めています。<br><br>対する、ＥＮＥＯＳの代理人からの回答は、「必要に応じて必要な事項を伝えています」という回答です。<a href="https://t.co/GVn4OHG6Kb">https://t.co/GVn4OHG6Kb</a></p>&mdash; Tomo@内部通報制度に関する訴訟を提起しました (@fuseimatome) <a href="https://twitter.com/fuseimatome/status/1770034005347565854?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
 
@@ -51,7 +51,7 @@
 ## ４　裁判所の判断
 ---
 <p class="base" style="margin-bottom: 1.6em;">
-<span class="strong_or">裁判所は、ＥＮＥＯＳの内部通報に対する対応が適切かどうかを検討せずに、通報者側の通報内容の一部を「…にすぎない」と表現することで、「不合理とは言えない」と判断したようです。</span>
+<span class="strong_or">裁判所は、ＥＮＥＯＳの内部通報に対する対応が適切かどうかを検討せずに、通報者側の通報内容の一部を「…にすぎない」と表現して、「不合理とは言えない」という判断につなげています。</span>
 <p class="base" style="margin-bottom: 1.6em;">
 本来、内部通報制度は、不正行為または不正行為の恐れのある行為を是正する目的で整備している制度です。ですので、仮に通報者側の通報内容の一部が「…にすぎない」ことだったとしても、それが内部通報に対する不適切な対応の言い訳になりません。
 <p class="base" style="margin-bottom: 1.6em;">
